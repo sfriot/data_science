@@ -1,0 +1,28 @@
+{% extends "base_bootstrap.html" %}
+{% block title %}Détection faux billets{% endblock %}
+
+{% block content %}
+	<h2>Détection des faux billets</h2>
+	<h3>Résultats</h3>
+	<table class="table table-striped">
+		<tbody>
+			<tr>
+				<th>Billet ID</th>
+				<th>Résultat</th>
+				<th>Probabilité que le billet soit vrai</th>
+			</tr>
+			{% for i in range(results|length) %}
+				<tr>
+					<td>{{ results.i.id }}</td>
+					<td>{% if results[i]['resultat'] == True %}
+							Billet authentique
+						{% else %}
+							Faux billet
+						{% endif %}</td>
+					<td>{{ '%0.2f'| format(results[i]['proba_true']) }}</td>
+				</tr>
+			{% endfor %}
+		</tbody>
+	</table>
+	<a class="btn btn-default" href="/billets" role="button">Effectuer une nouvelle détection</a>
+{% endblock %}

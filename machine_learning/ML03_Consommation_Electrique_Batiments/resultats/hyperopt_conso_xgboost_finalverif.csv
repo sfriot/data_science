@@ -1,0 +1,15 @@
+valid_score_mean,valid_score_std,valid_time_mean,train_score_mean,train_score_std,train_time_mean,data_transfo_time,data_imputer,data_encoder,estimator,iteration
+0.7723210712723526,0.024499412625954578,0.006378602981567383,0.9347354308778837,0.0034184174951772347,0.6311484336853027,0.6788960399990174,"AllImputation(categ_cols=['BuildingType', 'PrimaryPropertyType',
+                          'LargestPropertyUseType',
+                          'SecondLargestPropertyUseType',
+                          'ThirdLargestPropertyUseType'],
+              missforest=False,
+              sk_object=KNNImputer(add_indicator=False, copy=True,
+                                   metric='nan_euclidean', missing_values=nan,
+                                   n_neighbors=37, weights='distance'))",CustomOneHotEncoder(ascending=False),"XGBRegressor(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=0.53, gamma=0.09,
+             importance_type='gain', learning_rate=0.13, max_delta_step=0,
+             max_depth=4, min_child_weight=1, missing=None, n_estimators=170,
+             n_jobs=-1, nthread=None, objective='reg:squarederror',
+             random_state=42, reg_alpha=0.1, reg_lambda=1.2, scale_pos_weight=1,
+             seed=None, silent=None, subsample=0.96, verbosity=1)",1

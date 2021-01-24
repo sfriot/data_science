@@ -1,0 +1,196 @@
+pays,distance_capitale_paris,country_code
+Antigua-et-Barbuda,6713,8
+Argentine,11062,9
+Bahamas,7213,12
+Barbade,6884,14
+Belize,8661,23
+Bolivie (État plurinational de),10074,19
+Brésil,8735,21
+Canada,5653,33
+Chili,11659,40
+Colombie,8640,44
+Costa Rica,8926,48
+Cuba,7729,49
+Dominique,6828,55
+Équateur,9370,58
+États-Unis d'Amérique,6169,231
+Grenade,7124,86
+Guatemala,9005,89
+Guyana,7317,91
+Haïti,7364,93
+Honduras,8809,95
+Jamaïque,7735,109
+Mexique,9199,138
+Nicaragua,8902,157
+Panama,8671,166
+Paraguay,10172,169
+Pérou,10264,170
+République dominicaine,7188,56
+Saint-Kitts-et-Nevis,6762,188
+Saint-Vincent-et-les Grenadines,6994,191
+Sainte-Lucie,6906,189
+El Salvador,8986,60
+Suriname,7197,207
+Trinité-et-Tobago,7224,220
+Uruguay,10971,234
+Venezuela (République bolivarienne du),7626,236
+Albanie,1604,3
+Allemagne,879,79
+Andorre,711,6
+Autriche,1036,11
+Belgique,262,255
+Bélarus,1829,57
+Bosnie-Herzégovine,1348,80
+Bulgarie,1760,27
+Croatie,1081,98
+Danemark,1028,54
+Espagne,1054,203
+Estonie,1861,63
+Finlande,1911,67
+France,0,68
+Grèce,2100,84
+Hongrie,1247,97
+Irlande,780,104
+Islande,2231,99
+Italie,1109,106
+Lettonie,1705,119
+Liechtenstein,569,125
+Lituanie,1698,126
+Luxembourg,288,256
+Macédoine du Nord,1670,154
+Malte,1752,134
+République de Moldova,1977,146
+Monaco,690,140
+Monténégro,1495,273
+Norvège,1343,162
+Pays-Bas,430,150
+Pologne,1369,173
+Portugal,1456,174
+Tchéquie (la),883,167
+Roumanie,1874,183
+Royaume-Uni,342,229
+Fédération de Russie,2490,185
+Saint-Marin,949,192
+Serbie,1448,272
+Slovaquie,1091,199
+Slovénie,967,198
+Suède,1545,210
+Suisse,435,211
+Ukraine,2026,230
+Saint-Siège,1106,94
+Afrique du Sud,8695,202
+Algérie,1347,4
+Angola,6512,7
+Bénin,4717,53
+Botswana,8514,20
+Burkina Faso,4079,233
+Burundi,6376,29
+Cameroun,5085,32
+Cabo Verde,4453,35
+Comores,7847,45
+Congo,6047,46
+Côte d'Ivoire,4883,107
+Djibouti,5597,72
+Égypte,3216,59
+Érythrée,4997,178
+Éthiopie,5582,238
+Gabon,5439,74
+Gambie,4308,75
+Ghana,4828,81
+Guinée,4626,90
+Guinée équatoriale,5059,61
+Guinée-Bissau,4440,175
+Kenya,6493,114
+Lesotho,9056,122
+Libéria,4896,123
+Libye,1996,124
+Madagascar,8771,129
+Malawi,7652,130
+Mali,4144,133
+Maroc,1817,143
+Maurice,9425,137
+Mauritanie,3803,136
+Mozambique,8857,144
+Namibie,8086,147
+Niger,3935,158
+Nigéria,4457,159
+Ouganda,6132,226
+République centrafricaine,5188,37
+République démocratique du Congo,6054,250
+Rwanda,6260,184
+Sao Tomé-et-Principe,5419,193
+Sénégal,4212,195
+Seychelles,7855,196
+Sierra Leone,4725,197
+Somalie,6625,201
+Soudan,4605,276
+Soudan du Sud,5627,277
+Eswatini,8848,209
+République-Unie de Tanzanie,6936,215
+Tchad,4256,39
+Togo,4758,217
+Tunisie,1486,222
+Zambie,7600,251
+Zimbabwe,7951,181
+Afghanistan,5587,2
+Arabie saoudite,4688,194
+Arménie,3436,1
+Azerbaïdjan,3817,52
+Bahreïn,4838,13
+Bangladesh,7920,16
+Bhoutan,7572,18
+Myanmar,8644,28
+Brunéi Darussalam,11223,26
+Cambodge,9952,115
+"Chine, continentale",8225,41
+Chypre,2955,50
+République populaire démocratique de Corée,8781,116
+République de Corée,8976,117
+Émirats arabes unis,5247,225
+Géorgie,3372,73
+Inde,6597,100
+Indonésie,11598,101
+Iraq,3868,103
+Iran (République islamique d'),4216,102
+Israël,3286,105
+Japon,9723,110
+Jordanie,3372,112
+Kazakhstan,4763,108
+Kirghizistan,5425,113
+Koweït,4412,118
+République démocratique populaire lao,9248,120
+Liban,3196,121
+Malaisie,10437,131
+Maldives,8298,132
+Mongolie,7056,141
+Népal,7245,149
+Oman,5618,221
+Ouzbékistan,5154,235
+Pakistan,5925,165
+Palestine,3326,299
+Philippines,10756,171
+Qatar,4980,179
+Singapour,10750,200
+Sri Lanka,8533,38
+République arabe syrienne,3279,212
+Tadjikistan,5292,208
+Thaïlande,9455,216
+Timor-Leste,13130,176
+Turkménistan,4582,213
+Turquie,2602,223
+Viet Nam,9208,237
+Yémen,5321,249
+Australie,16941,10
+Fidji,16599,66
+Îles Marshall,13718,127
+Îles Salomon,15177,25
+Kiribati,14374,83
+Micronésie (États fédérés de),13396,145
+Nauru,14459,148
+Nouvelle-Zélande,19007,156
+Palaos,12235,180
+Papouasie-Nouvelle-Guinée,14571,168
+Samoa,16100,244
+Tonga,16943,219
+Tuvalu,15537,227
+Vanuatu,16348,155

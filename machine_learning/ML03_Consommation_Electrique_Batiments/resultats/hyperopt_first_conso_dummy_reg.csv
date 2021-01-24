@@ -1,0 +1,47 @@
+valid_score_mean,valid_score_std,valid_time_mean,train_score_mean,train_score_std,train_time_mean,data_transfo_time,data_imputers,data_encoders,add_cross,keep_all,restrict_scaler,params_reg,iteration
+-0.016215320250750363,0.022898270582446048,0.0018470287322998047,-0.010846666055173416,0.0018784266882735105,0.006279659271240234,0.222184091000031,"PandasColumnTransformer(list_name=<__main__.ListCols object at 0x7f761105d0f0>,
+                        n_jobs=-1, remainder='drop', sparse_threshold=0.3,
+                        transformer_weights=None,
+                        transformers=[('num_imputer',
+                                       FitToPandas(list_name=None,
+                                                   restrict_cols=None,
+                                                   sk_object=SimpleImputer(add_indicator=False,
+                                                                           copy=True,
+                                                                           fill_value=None,
+                                                                           missing_values=nan,
+                                                                           strategy='mean',
+                                                                           verbose=0)),
+                                       'num'),
+                                      ('categ_imputer',
+                                       FitToPandas(list_name=None,
+                                                   restrict_cols=None,
+                                                   sk_object=SimpleImputer(add_indicator=False,
+                                                                           copy=True,
+                                                                           fill_value=None,
+                                                                           missing_values=nan,
+                                                                           strategy='most_frequent',
+                                                                           verbose=0)),
+                                       'categ')],
+                        verbose=False)","CustomTargetEncoder(encoder=TargetEncoder(cols=['BuildingType',
+                                                'PrimaryPropertyType',
+                                                'LargestPropertyUseType',
+                                                'SecondLargestPropertyUseType',
+                                                'ThirdLargestPropertyUseType'],
+                                          drop_invariant=False,
+                                          handle_missing='value',
+                                          handle_unknown='value',
+                                          min_samples_leaf=1, return_df=True,
+                                          smoothing=1.0, verbose=0),
+                    target_values=2015_1        12.0
+2015_2        11.0
+2015_3        41.0
+2015_5        10.0
+2015_9         2.0
+              ... 
+2015_49946     8.0
+2015_49998     4.0
+2015_50008     6.0
+2015_50013     4.0
+2015_50038     2.0
+Name: NumberofFloors, Length: 1509, dtype: float64)",False,True,,"{'estimator': DummyRegressor(constant=None, quantile=None, strategy='median'), 'pca': PCA(copy=True, iterated_power='auto', n_components=0.9, random_state=None,
+    svd_solver='auto', tol=0.0, whiten=False)}",1

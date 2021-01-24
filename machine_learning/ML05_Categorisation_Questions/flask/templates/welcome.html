@@ -1,0 +1,21 @@
+{% extends "base_bootstrap.html" %}
+{% block title %}Suggestion de tags pour une question sur Stack Overflow{% endblock %}
+
+{% block content %}
+	<div class="well">
+		<h2>Suggestion de tags</h2>
+		<p>Cet outil vous suggère un ou plusieurs tags pour une question que vous voulez poser sur Stack Overflow</p>
+	</div>
+	<h3>Entrez votre question</h3>
+	<form method ="POST" enctype ="multipart/form-data">
+		<div class="form-group">
+			<label for="TitleInput">Titre de la question</label>
+			<input class="form-control" type="text" id="TitleInput" name="title" maxlength="255" placeholder="Entrez le titre">
+		</div>
+		<div class="form-group">
+			<label for="BodyInput">Texte de la question</label>
+			<textarea class="form-control" id="BodyInput" name="body" rows="10" placeholder="Entrez votre question"></textarea>
+		</div>
+		<button type="submit" class="btn btn-info">Obtenir les labels</button>
+	</form>
+{% endblock %}

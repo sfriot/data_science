@@ -1,0 +1,151 @@
+country_code,country_name,decennie_etudiee,coef_elasticite,region,area
+CHN,China,1960.0,0.39899999999999997,East Asia & Pacific,Asia
+MNG,Mongolia,1970.0,0.4010015999999999,East Asia & Pacific,Asia
+MYS,Malaysia,1960.0,0.54,East Asia & Pacific,Asia
+TLS,Timor-Leste,1970.0,0.7019938999999998,East Asia & Pacific,Asia
+VNM,Vietnam,1960.0,0.48000000000000015,East Asia & Pacific,Asia
+ALB,Albania,1970.0,0.8158744999999997,Europe & Central Asia,Europe
+BIH,Bosnia and Herzegovina,1970.0,0.8272522999999997,Europe & Central Asia,Europe
+BLR,Belarus,1970.0,0.34273819999999994,Europe & Central Asia,Europe
+KAZ,Kazakhstan,1970.0,0.2379952,Europe & Central Asia,Asia
+KGZ,Kyrgyz Republic,1970.0,0.3528712,Europe & Central Asia,Asia
+MKD,"Macedonia, FYR",1970.0,0.4166378000000001,Europe & Central Asia,Europe
+ROU,Romania,1970.0,0.36969919999999995,Europe & Central Asia,Europe
+RUS,Russian Federation,1960.0,0.33,Europe & Central Asia,Asia
+UZB,Uzbekistan,1970.0,0.4967635000000001,Europe & Central Asia,Asia
+AUS,Australia,1960.0,0.27499999999999997,High income,Australia_NZ_USA
+AUT,Austria,1960.0,0.24526679999999998,High income,Europe
+BEL,Belgium,1960.0,0.183176,High income,Europe
+CAN,Canada,1960.0,0.2693333333333334,High income,Canada-Nordic_Europe
+CHE,Switzerland,1960.0,0.2545943,High income,Europe
+CHL,Chile,1970.0,0.5700000000000001,High income,Latin_America-Africa
+CYP,Cyprus,1960.0,0.342,High income,Europe
+CZE,Czech Republic,1960.0,0.43404099999999995,High income,Europe
+DEU,Germany,1960.0,0.23790419999999998,High income,Europe
+DNK,Denmark,1960.0,0.1451456,High income,Canada-Nordic_Europe
+ESP,Spain,1960.0,0.4237571,High income,Europe
+FIN,Finland,1960.0,0.11287570000000001,High income,Canada-Nordic_Europe
+FRA,France,1960.0,0.3571051,High income,Europe
+GBR,United Kingdom,1960.0,0.4809783,High income,Europe
+GRC,Greece,1960.0,0.31257769999999996,High income,Europe
+HRV,Croatia,1970.0,0.4640773999999999,High income,Europe
+IRL,Ireland,1960.0,0.2563985999999999,High income,Europe
+ITA,Italy,1960.0,0.4877371000000001,High income,Europe
+JPN,Japan,1960.0,0.3399999999999999,High income,Asia
+KOR,"Korea, Rep.",1970.0,0.3940000000000001,High income,Asia
+LUX,Luxembourg,1960.0,0.3807922,High income,Europe
+LVA,Latvia,1970.0,0.8899115000000001,High income,Europe
+NLD,Netherlands,1960.0,0.30395640000000007,High income,Europe
+NOR,Norway,1960.0,0.19866666666666674,High income,Canada-Nordic_Europe
+NZL,New Zealand,1970.0,0.29,High income,Australia_NZ_USA
+PRT,Portugal,1960.0,0.2823753,High income,Europe
+SGP,Singapore,1960.0,0.26,High income,Asia
+SVK,Slovak Republic,1960.0,0.5960783999999999,High income,Europe
+SVN,Slovenia,1960.0,0.31121249999999995,High income,Europe
+SWE,Sweden,1960.0,0.25959999999999994,High income,Canada-Nordic_Europe
+TWN,"Taiwan, China",1960.0,0.18100000000000002,High income,Asia
+USA,United States,1960.0,0.5376656000000001,High income,Australia_NZ_USA
+BOL,Bolivia,1970.0,0.8662677,Latin America & Caribbean,Latin_America-Africa
+BRA,Brazil,1960.0,0.6349999999999999,Latin America & Caribbean,Latin_America-Africa
+COL,Colombia,1970.0,1.09544,Latin America & Caribbean,Latin_America-Africa
+ECU,Ecuador,1970.0,1.0299569999999998,Latin America & Caribbean,Latin_America-Africa
+GTM,Guatemala,1970.0,1.0152059999999998,Latin America & Caribbean,Latin_America-Africa
+PAN,Panama,1970.0,0.9668646000000004,Latin America & Caribbean,Latin_America-Africa
+PER,Peru,1960.0,0.6669999999999999,Latin America & Caribbean,Latin_America-Africa
+EGY,"Egypt, Arab Rep.",1970.0,0.9432051999999996,Middle East & North Africa,Latin_America-Africa
+JOR,Jordan,1970.0,0.5173975000000002,Middle East & North Africa,Asia
+MAR,Morocco,1970.0,0.9457445,Middle East & North Africa,Latin_America-Africa
+TUN,Tunisia,1970.0,0.8604330000000003,Middle East & North Africa,Latin_America-Africa
+BGD,Bangladesh,1960.0,0.5379999999999999,South Asia,Asia
+IND,India,1960.0,0.596,South Asia,Asia
+NPL,Nepal,1960.0,0.436,South Asia,Asia
+PAK,Pakistan,1960.0,0.45049999999999996,South Asia,Asia
+BEN,Benin,1970.0,0.8551162,Sub-Saharan Africa,Latin_America-Africa
+COD,"Congo, Dem. Rep.",1970.0,0.7077025,Sub-Saharan Africa,Latin_America-Africa
+ETH,Ethiopia,1980.0,0.35700000000000015,Sub-Saharan Africa,Latin_America-Africa
+GHA,Ghana,1970.0,0.561605,Sub-Saharan Africa,Latin_America-Africa
+GIN,Guinea,1970.0,0.3428547000000001,Sub-Saharan Africa,Latin_America-Africa
+KEN,Kenya,1970.0,0.6703726999999998,Sub-Saharan Africa,Latin_America-Africa
+MDG,Madagascar,1970.0,0.6896126000000001,Sub-Saharan Africa,Latin_America-Africa
+MLI,Mali,1970.0,0.7139534000000002,Sub-Saharan Africa,Latin_America-Africa
+MWI,Malawi,1970.0,0.7402018,Sub-Saharan Africa,Latin_America-Africa
+NGA,Nigeria,1970.0,0.6579495,Sub-Saharan Africa,Latin_America-Africa
+RWA,Rwanda,1970.0,0.7886905999999999,Sub-Saharan Africa,Latin_America-Africa
+TZA,Tanzania,1970.0,0.5119727000000001,Sub-Saharan Africa,Latin_America-Africa
+UGA,Uganda,1970.0,1.0291949999999999,Sub-Saharan Africa,Latin_America-Africa
+ZAF,South Africa,1960.0,0.6769999999999999,Sub-Saharan Africa,Latin_America-Africa
+FJI,Fiji,,0.5,East Asia & Pacific,Asia
+IDN,Indonesia,,0.5,East Asia & Pacific,Asia
+KHM,Cambodia,,0.5,East Asia & Pacific,Asia
+KIR,Kiribati,,0.5,East Asia & Pacific,Asia
+LAO,Lao PDR,,0.5,East Asia & Pacific,Asia
+PHL,Philippines,,0.5,East Asia & Pacific,Asia
+PNG,Papua New Guinea,,0.5,East Asia & Pacific,Asia
+THA,Thailand,,0.5,East Asia & Pacific,Asia
+TON,Tonga,,0.5,East Asia & Pacific,Asia
+TUV,Tuvalu,,0.5,East Asia & Pacific,Asia
+VUT,Vanuatu,,0.5,East Asia & Pacific,Asia
+ARM,Armenia,,0.4,Europe & Central Asia,Asia
+AZE,Azerbaijan,,0.4,Europe & Central Asia,Asia
+BGR,Bulgaria,,0.45,Europe & Central Asia,Europe
+GEO,Georgia,,0.4,Europe & Central Asia,Asia
+KSV,Kosovo,,0.45,Europe & Central Asia,Europe
+MDA,Moldova,,0.45,Europe & Central Asia,Europe
+MNE,Montenegro,,0.45,Europe & Central Asia,Europe
+SRB,Serbia,,0.45,Europe & Central Asia,Europe
+TJK,Tajikistan,,0.4,Europe & Central Asia,Asia
+TUR,Turkey,,0.4,Europe & Central Asia,Asia
+UKR,Ukraine,,0.45,Europe & Central Asia,Europe
+EST,Estonia,,0.35,High income,Europe
+HUN,Hungary,,0.35,High income,Europe
+ISL,Iceland,,0.2,High income,Canada-Nordic_Europe
+ISR,Israel,,0.4,High income,Asia
+LTU,Lithuania,,0.35,High income,Europe
+POL,Poland,,0.35,High income,Europe
+URY,Uruguay,,0.5,High income,Latin_America-Africa
+ARG,Argentina,,0.9,Latin America & Caribbean,Latin_America-Africa
+CRI,Costa Rica,,0.9,Latin America & Caribbean,Latin_America-Africa
+DOM,Dominican Republic,,0.9,Latin America & Caribbean,Latin_America-Africa
+HND,Honduras,,0.9,Latin America & Caribbean,Latin_America-Africa
+MEX,Mexico,,0.9,Latin America & Caribbean,Latin_America-Africa
+NIC,Nicaragua,,0.9,Latin America & Caribbean,Latin_America-Africa
+PRY,Paraguay,,0.9,Latin America & Caribbean,Latin_America-Africa
+SLV,El Salvador,,0.9,Latin America & Caribbean,Latin_America-Africa
+VEN,"Venezuela, RB",,0.9,Latin America & Caribbean,Latin_America-Africa
+DJI,Djibouti,,0.9,Middle East & North Africa,Latin_America-Africa
+IRN,"Iran, Islamic Rep.",,0.5,Middle East & North Africa,Asia
+IRQ,Iraq,,0.5,Middle East & North Africa,Asia
+LBN,Lebanon,,0.5,Middle East & North Africa,Asia
+PSE,West Bank and Gaza,,0.5,Middle East & North Africa,Asia
+YEM,"Yemen, Rep.",,0.5,Middle East & North Africa,Asia
+AFG,Afghanistan,,0.5,South Asia,Asia
+BTN,Bhutan,,0.5,South Asia,Asia
+LKA,Sri Lanka,,0.5,South Asia,Asia
+MDV,Maldives,,0.5,South Asia,Asia
+AGO,Angola,,0.66,Sub-Saharan Africa,Latin_America-Africa
+BFA,Burkina Faso,,0.66,Sub-Saharan Africa,Latin_America-Africa
+BWA,Botswana,,0.66,Sub-Saharan Africa,Latin_America-Africa
+CAF,Central African Republic,,0.66,Sub-Saharan Africa,Latin_America-Africa
+CIV,Cote d'Ivoire,,0.66,Sub-Saharan Africa,Latin_America-Africa
+CMR,Cameroon,,0.66,Sub-Saharan Africa,Latin_America-Africa
+COG,"Congo, Rep.",,0.66,Sub-Saharan Africa,Latin_America-Africa
+COM,Comoros,,0.66,Sub-Saharan Africa,Latin_America-Africa
+CPV,Cabo Verde,,0.66,Sub-Saharan Africa,Latin_America-Africa
+GAB,Gabon,,0.66,Sub-Saharan Africa,Latin_America-Africa
+GNB,Guinea-Bissau,,0.66,Sub-Saharan Africa,Latin_America-Africa
+LBR,Liberia,,0.66,Sub-Saharan Africa,Latin_America-Africa
+LSO,Lesotho,,0.66,Sub-Saharan Africa,Latin_America-Africa
+MOZ,Mozambique,,0.66,Sub-Saharan Africa,Latin_America-Africa
+MRT,Mauritania,,0.66,Sub-Saharan Africa,Latin_America-Africa
+MUS,Mauritius,,0.66,Sub-Saharan Africa,Latin_America-Africa
+NAM,Namibia,,0.66,Sub-Saharan Africa,Latin_America-Africa
+NER,Niger,,0.66,Sub-Saharan Africa,Latin_America-Africa
+SDN,Sudan,,0.66,Sub-Saharan Africa,Latin_America-Africa
+SEN,Senegal,,0.66,Sub-Saharan Africa,Latin_America-Africa
+SLE,Sierra Leone,,0.66,Sub-Saharan Africa,Latin_America-Africa
+SSD,South Sudan,,0.66,Sub-Saharan Africa,Latin_America-Africa
+STP,Sao Tome and Principe,,0.66,Sub-Saharan Africa,Latin_America-Africa
+SWZ,Swaziland,,0.66,Sub-Saharan Africa,Latin_America-Africa
+TCD,Chad,,0.66,Sub-Saharan Africa,Latin_America-Africa
+TGO,Togo,,0.66,Sub-Saharan Africa,Latin_America-Africa
+ZMB,Zambia,,0.66,Sub-Saharan Africa,Latin_America-Africa

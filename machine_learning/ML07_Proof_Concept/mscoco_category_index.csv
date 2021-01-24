@@ -1,0 +1,81 @@
+,name,key
+1,person,1
+2,bicycle,2
+3,car,3
+4,motorcycle,4
+5,airplane,5
+6,bus,6
+7,train,7
+8,truck,8
+9,boat,9
+10,traffic light,10
+11,fire hydrant,11
+13,stop sign,13
+14,parking meter,14
+15,bench,15
+16,bird,16
+17,cat,17
+18,dog,18
+19,horse,19
+20,sheep,20
+21,cow,21
+22,elephant,22
+23,bear,23
+24,zebra,24
+25,giraffe,25
+27,backpack,27
+28,umbrella,28
+31,handbag,31
+32,tie,32
+33,suitcase,33
+34,frisbee,34
+35,skis,35
+36,snowboard,36
+37,sports ball,37
+38,kite,38
+39,baseball bat,39
+40,baseball glove,40
+41,skateboard,41
+42,surfboard,42
+43,tennis racket,43
+44,bottle,44
+46,wine glass,46
+47,cup,47
+48,fork,48
+49,knife,49
+50,spoon,50
+51,bowl,51
+52,banana,52
+53,apple,53
+54,sandwich,54
+55,orange,55
+56,broccoli,56
+57,carrot,57
+58,hot dog,58
+59,pizza,59
+60,donut,60
+61,cake,61
+62,chair,62
+63,couch,63
+64,potted plant,64
+65,bed,65
+67,dining table,67
+70,toilet,70
+72,tv,72
+73,laptop,73
+74,mouse,74
+75,remote,75
+76,keyboard,76
+77,cell phone,77
+78,microwave,78
+79,oven,79
+80,toaster,80
+81,sink,81
+82,refrigerator,82
+84,book,84
+85,clock,85
+86,vase,86
+87,scissors,87
+88,teddy bear,88
+89,hair drier,89
+90,toothbrush,90

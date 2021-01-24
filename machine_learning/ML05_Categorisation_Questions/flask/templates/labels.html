@@ -1,0 +1,26 @@
+{% extends "base_bootstrap.html" %}
+{% block title %}Suggestion de tags pour une question sur Stack Overflow{% endblock %}
+
+{% block content %}
+	<div class="well">
+		<h2>Suggestion de tags</h2>
+		<p>Cet outil vous suggère un ou plusieurs tags pour une question que vous voulez poser sur Stack Overflow</p>
+	</div>
+	<div id="question">
+		<h3>Rappel de la question</h3>
+		<p>Titre : {{ results.title }}</p>
+		<p>Question : {{ results.body }}</p>
+	</div>
+	<div id="labels">
+		<h3>Tags(s) suggéré(s) par l'apprentissage supervisé</h3>
+		<ul>
+		{% for label in results.labels %}
+			<li>{{ label }}</li>
+		{% endfor %}
+		</ul>
+	</div>
+	
+	<div class="footer-left">
+		<a class="btn btn-primary" href="/" role="button">Obtenir une suggestion pour une nouvelle question</a>
+	</div>
+{% endblock %}

@@ -1,0 +1,973 @@
+country_code,year,country,gini
+AGO,2008,Angola,42.7
+ALB,2005,Albania,30.6
+ALB,2008,Albania,30.0
+ALB,2012,Albania,29.0
+ARG,2003,Argentina,50.7
+ARG,2004,Argentina,48.3
+ARG,2005,Argentina,47.7
+ARG,2006,Argentina,46.6
+ARG,2007,Argentina,46.3
+ARG,2008,Argentina,44.5
+ARG,2009,Argentina,43.9
+ARG,2010,Argentina,43.0
+ARG,2011,Argentina,42.3
+ARG,2012,Argentina,41.2
+ARG,2013,Argentina,41.0
+ARG,2014,Argentina,41.4
+ARM,2003,Armenia,33.0
+ARM,2004,Armenia,37.5
+ARM,2005,Armenia,36.0
+ARM,2006,Armenia,29.7
+ARM,2007,Armenia,31.2
+ARM,2008,Armenia,29.2
+ARM,2009,Armenia,28.0
+ARM,2010,Armenia,30.0
+ARM,2011,Armenia,29.4
+ARM,2012,Armenia,29.6
+ARM,2013,Armenia,30.6
+ARM,2014,Armenia,31.5
+ARM,2015,Armenia,32.4
+AUS,2003,Australia,33.5
+AUS,2004,Australia,33.1
+AUS,2008,Australia,35.4
+AUS,2010,Australia,34.7
+AUS,2014,Australia,35.8
+AUT,2003,Austria,29.5
+AUT,2004,Austria,29.8
+AUT,2005,Austria,28.7
+AUT,2006,Austria,29.6
+AUT,2007,Austria,30.6
+AUT,2008,Austria,30.4
+AUT,2009,Austria,31.5
+AUT,2010,Austria,30.3
+AUT,2011,Austria,30.8
+AUT,2012,Austria,30.5
+AUT,2013,Austria,30.8
+AUT,2014,Austria,30.5
+AUT,2015,Austria,30.5
+AZE,2003,Azerbaijan,26.8
+AZE,2004,Azerbaijan,26.6
+AZE,2005,Azerbaijan,26.6
+BDI,2006,Burundi,33.4
+BDI,2013,Burundi,38.6
+BEL,2003,Belgium,28.1
+BEL,2004,Belgium,30.5
+BEL,2005,Belgium,29.3
+BEL,2006,Belgium,28.1
+BEL,2007,Belgium,29.2
+BEL,2008,Belgium,28.4
+BEL,2009,Belgium,28.5
+BEL,2010,Belgium,28.4
+BEL,2011,Belgium,28.1
+BEL,2012,Belgium,27.5
+BEL,2013,Belgium,27.7
+BEL,2014,Belgium,28.1
+BEL,2015,Belgium,27.7
+BEN,2003,Benin,38.6
+BEN,2011,Benin,43.4
+BEN,2015,Benin,47.8
+BFA,2003,Burkina Faso,43.3
+BFA,2009,Burkina Faso,39.8
+BFA,2014,Burkina Faso,35.3
+BGD,2005,Bangladesh,33.2
+BGD,2010,Bangladesh,32.1
+BGR,2006,Bulgaria,35.7
+BGR,2007,Bulgaria,36.1
+BGR,2008,Bulgaria,33.6
+BGR,2009,Bulgaria,33.8
+BGR,2010,Bulgaria,35.7
+BGR,2011,Bulgaria,34.3
+BGR,2012,Bulgaria,36.0
+BGR,2013,Bulgaria,36.6
+BGR,2014,Bulgaria,37.4
+BIH,2004,Bosnia and Herzegovina,34.0
+BIH,2007,Bosnia and Herzegovina,33.1
+BIH,2011,Bosnia and Herzegovina,33.0
+BLR,2003,Belarus,28.8
+BLR,2004,Belarus,26.5
+BLR,2005,Belarus,27.6
+BLR,2006,Belarus,28.3
+BLR,2007,Belarus,29.6
+BLR,2008,Belarus,27.8
+BLR,2009,Belarus,27.7
+BLR,2010,Belarus,28.6
+BLR,2011,Belarus,27.2
+BLR,2012,Belarus,26.5
+BLR,2013,Belarus,26.6
+BLR,2014,Belarus,27.2
+BLR,2015,Belarus,25.6
+BOL,2004,Bolivia,55.0
+BOL,2005,Bolivia,58.5
+BOL,2006,Bolivia,56.7
+BOL,2007,Bolivia,54.5
+BOL,2008,Bolivia,50.8
+BOL,2009,Bolivia,49.2
+BOL,2011,Bolivia,46.1
+BOL,2012,Bolivia,46.6
+BOL,2013,Bolivia,47.6
+BOL,2014,Bolivia,47.8
+BOL,2015,Bolivia,46.7
+BRA,2003,Brazil,57.6
+BRA,2004,Brazil,56.5
+BRA,2005,Brazil,56.3
+BRA,2006,Brazil,55.6
+BRA,2007,Brazil,54.9
+BRA,2008,Brazil,54.0
+BRA,2009,Brazil,53.7
+BRA,2011,Brazil,52.9
+BRA,2012,Brazil,52.7
+BRA,2013,Brazil,52.8
+BRA,2014,Brazil,51.5
+BRA,2015,Brazil,51.3
+BTN,2003,Bhutan,40.9
+BTN,2007,Bhutan,38.1
+BTN,2012,Bhutan,38.8
+BWA,2009,Botswana,60.5
+BWA,2015,Botswana,53.3
+CAF,2003,Central African Republic,43.6
+CAF,2008,Central African Republic,56.2
+CAN,2004,Canada,33.7
+CAN,2007,Canada,33.8
+CAN,2010,Canada,33.6
+CAN,2013,Canada,34.0
+CHE,2006,Switzerland,33.9
+CHE,2007,Switzerland,34.3
+CHE,2008,Switzerland,33.8
+CHE,2009,Switzerland,32.9
+CHE,2010,Switzerland,32.6
+CHE,2011,Switzerland,31.7
+CHE,2012,Switzerland,31.6
+CHE,2013,Switzerland,32.5
+CHE,2014,Switzerland,32.5
+CHE,2015,Switzerland,32.3
+CHL,2003,Chile,51.5
+CHL,2006,Chile,48.2
+CHL,2009,Chile,49.0
+CHL,2011,Chile,47.6
+CHL,2013,Chile,47.3
+CHL,2015,Chile,47.7
+CHN,2005,China,41.0
+CHN,2008,China,42.9
+CHN,2010,China,43.7
+CHN,2011,China,42.4
+CHN,2012,China,42.2
+CHN,2013,China,39.7
+CHN,2014,China,39.1
+CHN,2015,China,38.6
+CIV,2008,Cote d'Ivoire,43.2
+CIV,2015,Cote d'Ivoire,41.5
+CMR,2007,Cameroon,42.8
+CMR,2014,Cameroon,46.6
+COD,2004,Congo Dem. Rep.,42.2
+COD,2012,Congo Dem. Rep.,42.1
+COG,2005,Congo Rep.,47.3
+COG,2011,Congo Rep.,48.9
+COL,2003,Colombia,53.4
+COL,2004,Colombia,54.8
+COL,2005,Colombia,53.7
+COL,2008,Colombia,55.5
+COL,2009,Colombia,54.4
+COL,2010,Colombia,54.7
+COL,2011,Colombia,53.5
+COL,2012,Colombia,52.7
+COL,2013,Colombia,52.8
+COL,2014,Colombia,52.7
+COL,2015,Colombia,51.1
+COM,2004,Comoros,55.9
+COM,2013,Comoros,45.3
+CPV,2007,Cabo Verde,47.2
+CRI,2003,Costa Rica,49.3
+CRI,2004,Costa Rica,48.3
+CRI,2005,Costa Rica,47.5
+CRI,2006,Costa Rica,49.4
+CRI,2007,Costa Rica,49.3
+CRI,2008,Costa Rica,48.7
+CRI,2009,Costa Rica,50.6
+CRI,2010,Costa Rica,48.2
+CRI,2011,Costa Rica,48.7
+CRI,2012,Costa Rica,48.6
+CRI,2013,Costa Rica,49.3
+CRI,2014,Costa Rica,48.6
+CRI,2015,Costa Rica,48.4
+CYP,2004,Cyprus,30.1
+CYP,2005,Cyprus,30.3
+CYP,2006,Cyprus,31.1
+CYP,2007,Cyprus,31.1
+CYP,2008,Cyprus,31.7
+CYP,2009,Cyprus,32.1
+CYP,2010,Cyprus,31.5
+CYP,2011,Cyprus,32.6
+CYP,2012,Cyprus,34.3
+CYP,2013,Cyprus,37.0
+CYP,2014,Cyprus,35.6
+CYP,2015,Cyprus,34.0
+CZE,2004,Czech Republic,27.5
+CZE,2005,Czech Republic,26.9
+CZE,2006,Czech Republic,26.7
+CZE,2007,Czech Republic,26.0
+CZE,2008,Czech Republic,26.3
+CZE,2009,Czech Republic,26.2
+CZE,2010,Czech Republic,26.6
+CZE,2011,Czech Republic,26.4
+CZE,2012,Czech Republic,26.1
+CZE,2013,Czech Republic,26.5
+CZE,2014,Czech Republic,25.9
+CZE,2015,Czech Republic,25.9
+DEU,2003,Germany,30.3
+DEU,2004,Germany,30.4
+DEU,2005,Germany,32.3
+DEU,2006,Germany,31.3
+DEU,2007,Germany,31.3
+DEU,2008,Germany,31.2
+DEU,2009,Germany,30.5
+DEU,2010,Germany,30.2
+DEU,2011,Germany,30.5
+DEU,2013,Germany,31.1
+DEU,2015,Germany,31.7
+DJI,2012,Djibouti,45.1
+DJI,2013,Djibouti,44.1
+DNK,2003,Denmark,25.6
+DNK,2004,Denmark,24.9
+DNK,2005,Denmark,25.2
+DNK,2006,Denmark,25.9
+DNK,2007,Denmark,26.2
+DNK,2008,Denmark,25.2
+DNK,2009,Denmark,26.7
+DNK,2010,Denmark,27.2
+DNK,2011,Denmark,27.3
+DNK,2012,Denmark,27.8
+DNK,2013,Denmark,28.5
+DNK,2014,Denmark,28.4
+DNK,2015,Denmark,28.2
+DOM,2003,Dominican Republic,52.1
+DOM,2004,Dominican Republic,52.1
+DOM,2005,Dominican Republic,50.0
+DOM,2006,Dominican Republic,52.0
+DOM,2007,Dominican Republic,48.9
+DOM,2008,Dominican Republic,48.1
+DOM,2009,Dominican Republic,48.9
+DOM,2010,Dominican Republic,47.3
+DOM,2011,Dominican Republic,47.7
+DOM,2012,Dominican Republic,46.1
+DOM,2013,Dominican Republic,47.7
+DOM,2014,Dominican Republic,44.3
+DOM,2015,Dominican Republic,45.2
+DZA,2011,Algeria,27.6
+ECU,2003,Ecuador,53.4
+ECU,2004,Ecuador,53.9
+ECU,2005,Ecuador,53.1
+ECU,2006,Ecuador,52.2
+ECU,2007,Ecuador,53.3
+ECU,2008,Ecuador,49.7
+ECU,2009,Ecuador,48.4
+ECU,2010,Ecuador,48.7
+ECU,2011,Ecuador,45.9
+ECU,2012,Ecuador,46.1
+ECU,2013,Ecuador,46.9
+ECU,2014,Ecuador,45.0
+ECU,2015,Ecuador,46.0
+EGY,2004,Egypt Arab Rep.,31.8
+EGY,2008,Egypt Arab Rep.,31.1
+EGY,2010,Egypt Arab Rep.,31.5
+EGY,2012,Egypt Arab Rep.,29.8
+EGY,2015,Egypt Arab Rep.,31.8
+ESP,2003,Spain,31.8
+ESP,2004,Spain,33.3
+ESP,2005,Spain,32.4
+ESP,2006,Spain,33.5
+ESP,2007,Spain,34.1
+ESP,2008,Spain,34.2
+ESP,2009,Spain,34.9
+ESP,2010,Spain,35.2
+ESP,2011,Spain,35.7
+ESP,2012,Spain,35.4
+ESP,2013,Spain,36.2
+ESP,2014,Spain,36.1
+ESP,2015,Spain,36.2
+EST,2003,Estonia,37.2
+EST,2004,Estonia,33.6
+EST,2005,Estonia,33.4
+EST,2006,Estonia,33.7
+EST,2007,Estonia,31.2
+EST,2008,Estonia,31.9
+EST,2009,Estonia,31.4
+EST,2010,Estonia,32.0
+EST,2011,Estonia,32.5
+EST,2012,Estonia,32.9
+EST,2013,Estonia,35.1
+EST,2014,Estonia,34.6
+EST,2015,Estonia,32.7
+ETH,2004,Ethiopia,29.8
+ETH,2010,Ethiopia,33.2
+ETH,2015,Ethiopia,39.1
+FIN,2003,Finland,27.7
+FIN,2004,Finland,27.9
+FIN,2005,Finland,27.6
+FIN,2006,Finland,28.0
+FIN,2007,Finland,28.3
+FIN,2008,Finland,27.8
+FIN,2009,Finland,27.5
+FIN,2010,Finland,27.7
+FIN,2011,Finland,27.6
+FIN,2012,Finland,27.1
+FIN,2013,Finland,27.2
+FIN,2014,Finland,26.8
+FIN,2015,Finland,27.1
+FJI,2008,Fiji,40.4
+FJI,2013,Fiji,36.7
+FRA,2003,France,31.4
+FRA,2004,France,30.6
+FRA,2005,France,29.8
+FRA,2006,France,29.7
+FRA,2007,France,32.4
+FRA,2008,France,33.0
+FRA,2009,France,32.7
+FRA,2010,France,33.7
+FRA,2011,France,33.3
+FRA,2012,France,33.1
+FRA,2013,France,32.5
+FRA,2014,France,32.3
+FRA,2015,France,32.7
+FSM,2005,Micronesia Fed. Sts.,42.4
+FSM,2013,Micronesia Fed. Sts.,40.1
+GAB,2005,Gabon,42.2
+GBR,2004,United Kingdom,36.0
+GBR,2005,United Kingdom,34.3
+GBR,2006,United Kingdom,34.6
+GBR,2007,United Kingdom,35.7
+GBR,2008,United Kingdom,34.1
+GBR,2009,United Kingdom,34.3
+GBR,2010,United Kingdom,34.4
+GBR,2011,United Kingdom,33.2
+GBR,2012,United Kingdom,32.3
+GBR,2013,United Kingdom,33.2
+GBR,2014,United Kingdom,34.0
+GBR,2015,United Kingdom,33.2
+GEO,2003,Georgia,36.7
+GEO,2004,Georgia,36.2
+GEO,2005,Georgia,37.4
+GEO,2006,Georgia,36.9
+GEO,2007,Georgia,38.1
+GEO,2008,Georgia,38.5
+GEO,2009,Georgia,38.2
+GEO,2010,Georgia,39.5
+GEO,2011,Georgia,39.6
+GEO,2012,Georgia,39.0
+GEO,2013,Georgia,38.6
+GEO,2014,Georgia,37.6
+GEO,2015,Georgia,36.5
+GHA,2005,Ghana,42.8
+GHA,2012,Ghana,42.4
+GIN,2007,Guinea,39.4
+GIN,2012,Guinea,33.7
+GMB,2003,Gambia The,47.3
+GMB,2010,Gambia The,43.6
+GMB,2015,Gambia The,35.9
+GNB,2010,Guinea-Bissau,50.7
+GRC,2003,Greece,32.8
+GRC,2004,Greece,33.6
+GRC,2005,Greece,34.6
+GRC,2006,Greece,35.1
+GRC,2007,Greece,34.0
+GRC,2008,Greece,33.6
+GRC,2009,Greece,33.6
+GRC,2010,Greece,34.1
+GRC,2011,Greece,34.8
+GRC,2012,Greece,36.2
+GRC,2013,Greece,36.1
+GRC,2014,Greece,35.8
+GRC,2015,Greece,36.0
+GTM,2006,Guatemala,54.6
+GTM,2014,Guatemala,48.3
+HND,2003,Honduras,58.1
+HND,2004,Honduras,58.1
+HND,2005,Honduras,59.5
+HND,2006,Honduras,57.5
+HND,2007,Honduras,55.8
+HND,2008,Honduras,55.5
+HND,2009,Honduras,51.3
+HND,2010,Honduras,53.1
+HND,2011,Honduras,56.2
+HND,2012,Honduras,56.1
+HND,2013,Honduras,52.6
+HND,2014,Honduras,50.4
+HND,2015,Honduras,49.6
+HRV,2009,Croatia,32.6
+HRV,2010,Croatia,32.4
+HRV,2011,Croatia,32.3
+HRV,2012,Croatia,32.5
+HRV,2013,Croatia,32.0
+HRV,2014,Croatia,32.1
+HRV,2015,Croatia,31.1
+HTI,2012,Haiti,41.1
+HUN,2004,Hungary,29.9
+HUN,2005,Hungary,34.7
+HUN,2006,Hungary,28.3
+HUN,2007,Hungary,27.9
+HUN,2008,Hungary,27.5
+HUN,2009,Hungary,27.0
+HUN,2010,Hungary,29.4
+HUN,2011,Hungary,29.2
+HUN,2012,Hungary,30.8
+HUN,2013,Hungary,31.5
+HUN,2014,Hungary,30.9
+HUN,2015,Hungary,30.4
+IDN,2003,Indonesia,31.8
+IDN,2004,Indonesia,32.7
+IDN,2005,Indonesia,33.0
+IDN,2006,Indonesia,34.2
+IDN,2007,Indonesia,35.7
+IDN,2008,Indonesia,35.1
+IDN,2009,Indonesia,35.1
+IDN,2010,Indonesia,36.4
+IDN,2011,Indonesia,39.7
+IDN,2012,Indonesia,39.6
+IDN,2013,Indonesia,39.9
+IDN,2014,Indonesia,39.4
+IDN,2015,Indonesia,39.7
+IND,2004,India,34.4
+IND,2009,India,35.4
+IND,2011,India,35.7
+IRL,2003,Ireland,32.9
+IRL,2004,Ireland,33.6
+IRL,2005,Ireland,33.7
+IRL,2006,Ireland,32.7
+IRL,2007,Ireland,31.9
+IRL,2008,Ireland,30.9
+IRL,2009,Ireland,32.7
+IRL,2010,Ireland,32.3
+IRL,2011,Ireland,32.9
+IRL,2012,Ireland,33.2
+IRL,2013,Ireland,33.5
+IRL,2014,Ireland,31.9
+IRL,2015,Ireland,31.8
+IRN,2005,Iran Islamic Rep.,43.6
+IRN,2006,Iran Islamic Rep.,44.8
+IRN,2009,Iran Islamic Rep.,42.1
+IRN,2013,Iran Islamic Rep.,37.4
+IRN,2014,Iran Islamic Rep.,38.8
+IRN,2015,Iran Islamic Rep.,39.5
+IRQ,2006,Iraq,28.6
+IRQ,2012,Iraq,29.5
+ISL,2003,Iceland,26.8
+ISL,2004,Iceland,28.0
+ISL,2005,Iceland,29.0
+ISL,2006,Iceland,30.2
+ISL,2007,Iceland,29.5
+ISL,2008,Iceland,31.8
+ISL,2009,Iceland,28.7
+ISL,2010,Iceland,26.2
+ISL,2011,Iceland,26.8
+ISL,2012,Iceland,26.8
+ISL,2013,Iceland,25.4
+ISL,2014,Iceland,27.8
+ISR,2005,Israel,41.7
+ISR,2007,Israel,41.0
+ISR,2010,Israel,42.6
+ISR,2012,Israel,41.4
+ISR,2014,Israel,39.8
+ITA,2003,Italy,34.9
+ITA,2004,Italy,34.3
+ITA,2005,Italy,33.8
+ITA,2006,Italy,33.7
+ITA,2007,Italy,32.9
+ITA,2008,Italy,33.8
+ITA,2009,Italy,33.8
+ITA,2010,Italy,34.7
+ITA,2011,Italy,35.1
+ITA,2012,Italy,35.2
+ITA,2013,Italy,34.9
+ITA,2014,Italy,34.7
+ITA,2015,Italy,35.4
+JAM,2004,Jamaica,45.5
+JOR,2006,Jordan,33.9
+JOR,2008,Jordan,32.6
+JOR,2010,Jordan,33.7
+JPN,2008,Japan,32.1
+KAZ,2003,Kazakhstan,33.7
+KAZ,2004,Kazakhstan,31.8
+KAZ,2005,Kazakhstan,39.8
+KAZ,2006,Kazakhstan,30.2
+KAZ,2007,Kazakhstan,30.1
+KAZ,2008,Kazakhstan,28.5
+KAZ,2009,Kazakhstan,28.2
+KAZ,2010,Kazakhstan,28.0
+KAZ,2011,Kazakhstan,28.0
+KAZ,2012,Kazakhstan,28.2
+KAZ,2013,Kazakhstan,27.1
+KAZ,2014,Kazakhstan,27.0
+KAZ,2015,Kazakhstan,26.8
+KEN,2005,Kenya,46.5
+KEN,2015,Kenya,40.8
+KGZ,2003,Kyrgyz Republic,28.7
+KGZ,2004,Kyrgyz Republic,34.8
+KGZ,2005,Kyrgyz Republic,32.6
+KGZ,2006,Kyrgyz Republic,37.4
+KGZ,2007,Kyrgyz Republic,33.9
+KGZ,2008,Kyrgyz Republic,31.5
+KGZ,2009,Kyrgyz Republic,29.9
+KGZ,2010,Kyrgyz Republic,30.1
+KGZ,2011,Kyrgyz Republic,27.8
+KGZ,2012,Kyrgyz Republic,27.4
+KGZ,2013,Kyrgyz Republic,28.8
+KGZ,2014,Kyrgyz Republic,26.8
+KGZ,2015,Kyrgyz Republic,29.0
+KIR,2006,Kiribati,37.0
+KOR,2006,Korea Rep.,31.7
+KOR,2008,Korea Rep.,32.3
+KOR,2010,Korea Rep.,32.0
+KOR,2012,Korea Rep.,31.6
+LAO,2007,Lao PDR,35.4
+LAO,2012,Lao PDR,36.4
+LBN,2011,Lebanon,31.8
+LBR,2007,Liberia,36.5
+LBR,2014,Liberia,33.2
+LKA,2006,Sri Lanka,40.3
+LKA,2009,Sri Lanka,36.4
+LKA,2012,Sri Lanka,39.2
+LSO,2010,Lesotho,54.2
+LTU,2004,Lithuania,37.0
+LTU,2005,Lithuania,35.3
+LTU,2006,Lithuania,34.4
+LTU,2007,Lithuania,34.8
+LTU,2008,Lithuania,35.7
+LTU,2009,Lithuania,37.2
+LTU,2010,Lithuania,33.6
+LTU,2011,Lithuania,32.5
+LTU,2012,Lithuania,35.1
+LTU,2013,Lithuania,35.3
+LTU,2014,Lithuania,37.7
+LTU,2015,Lithuania,37.4
+LUX,2003,Luxembourg,30.2
+LUX,2004,Luxembourg,30.2
+LUX,2005,Luxembourg,30.8
+LUX,2006,Luxembourg,30.9
+LUX,2007,Luxembourg,31.1
+LUX,2008,Luxembourg,32.6
+LUX,2009,Luxembourg,31.2
+LUX,2010,Luxembourg,30.5
+LUX,2011,Luxembourg,32.1
+LUX,2012,Luxembourg,34.3
+LUX,2013,Luxembourg,32.0
+LUX,2014,Luxembourg,31.2
+LUX,2015,Luxembourg,33.8
+LVA,2004,Latvia,36.4
+LVA,2005,Latvia,39.0
+LVA,2006,Latvia,35.6
+LVA,2007,Latvia,37.5
+LVA,2008,Latvia,37.2
+LVA,2009,Latvia,35.9
+LVA,2010,Latvia,35.0
+LVA,2011,Latvia,35.8
+LVA,2012,Latvia,35.2
+LVA,2013,Latvia,35.5
+LVA,2014,Latvia,35.1
+LVA,2015,Latvia,34.2
+MAR,2006,Morocco,40.7
+MAR,2013,Morocco,39.5
+MDA,2003,Moldova,34.9
+MDA,2004,Moldova,35.0
+MDA,2005,Moldova,36.3
+MDA,2006,Moldova,35.4
+MDA,2007,Moldova,34.4
+MDA,2008,Moldova,34.7
+MDA,2009,Moldova,32.9
+MDA,2010,Moldova,32.1
+MDA,2011,Moldova,30.6
+MDA,2012,Moldova,29.2
+MDA,2013,Moldova,28.5
+MDA,2014,Moldova,26.8
+MDA,2015,Moldova,27.0
+MDG,2005,Madagascar,39.9
+MDG,2010,Madagascar,42.4
+MDG,2012,Madagascar,42.6
+MDV,2009,Maldives,38.4
+MEX,2004,Mexico,48.3
+MEX,2005,Mexico,48.9
+MEX,2006,Mexico,47.7
+MEX,2008,Mexico,44.6
+MEX,2010,Mexico,45.3
+MEX,2012,Mexico,45.4
+MEX,2014,Mexico,45.8
+MKD,2009,North Macedonia,42.8
+MKD,2010,North Macedonia,40.2
+MKD,2011,North Macedonia,39.4
+MKD,2012,North Macedonia,38.1
+MKD,2013,North Macedonia,36.2
+MKD,2014,North Macedonia,35.2
+MKD,2015,North Macedonia,35.6
+MLI,2006,Mali,38.9
+MLI,2009,Mali,33.0
+MLT,2006,Malta,28.0
+MLT,2007,Malta,29.2
+MLT,2008,Malta,29.0
+MLT,2009,Malta,30.2
+MLT,2010,Malta,29.0
+MLT,2011,Malta,29.1
+MLT,2012,Malta,29.4
+MLT,2013,Malta,28.8
+MLT,2014,Malta,29.0
+MLT,2015,Malta,29.4
+MMR,2015,Myanmar,38.1
+MNE,2005,Montenegro,30.2
+MNE,2006,Montenegro,30.0
+MNE,2007,Montenegro,31.4
+MNE,2008,Montenegro,30.5
+MNE,2009,Montenegro,31.0
+MNE,2010,Montenegro,28.9
+MNE,2011,Montenegro,30.8
+MNE,2012,Montenegro,32.3
+MNE,2013,Montenegro,32.4
+MNE,2014,Montenegro,31.9
+MNG,2007,Mongolia,35.8
+MNG,2010,Mongolia,33.1
+MNG,2011,Mongolia,33.9
+MNG,2012,Mongolia,33.8
+MNG,2014,Mongolia,32.0
+MOZ,2008,Mozambique,45.6
+MOZ,2014,Mozambique,54.0
+MRT,2004,Mauritania,40.2
+MRT,2008,Mauritania,35.7
+MRT,2014,Mauritania,32.6
+MUS,2006,Mauritius,35.7
+MUS,2012,Mauritius,35.8
+MWI,2004,Malawi,39.9
+MWI,2010,Malawi,45.5
+MYS,2004,Malaysia,46.1
+MYS,2007,Malaysia,46.1
+MYS,2008,Malaysia,45.5
+MYS,2011,Malaysia,43.9
+MYS,2013,Malaysia,41.3
+MYS,2015,Malaysia,41.0
+NAM,2003,Namibia,63.3
+NAM,2009,Namibia,61.0
+NAM,2015,Namibia,59.1
+NER,2005,Niger,44.4
+NER,2007,Niger,37.3
+NER,2011,Niger,31.5
+NER,2014,Niger,34.3
+NGA,2003,Nigeria,40.1
+NGA,2009,Nigeria,43.0
+NIC,2005,Nicaragua,48.8
+NIC,2009,Nicaragua,43.9
+NIC,2014,Nicaragua,46.2
+NLD,2004,Netherlands,29.8
+NLD,2005,Netherlands,29.0
+NLD,2006,Netherlands,30.0
+NLD,2007,Netherlands,29.6
+NLD,2008,Netherlands,29.3
+NLD,2009,Netherlands,27.9
+NLD,2010,Netherlands,27.8
+NLD,2011,Netherlands,27.7
+NLD,2012,Netherlands,27.6
+NLD,2013,Netherlands,28.1
+NLD,2014,Netherlands,28.6
+NLD,2015,Netherlands,28.2
+NOR,2003,Norway,27.6
+NOR,2004,Norway,31.6
+NOR,2005,Norway,30.6
+NOR,2006,Norway,26.4
+NOR,2007,Norway,27.1
+NOR,2008,Norway,27.0
+NOR,2009,Norway,26.2
+NOR,2010,Norway,25.7
+NOR,2011,Norway,25.3
+NOR,2012,Norway,25.7
+NOR,2013,Norway,26.4
+NOR,2014,Norway,26.8
+NOR,2015,Norway,27.5
+NPL,2003,Nepal,43.8
+NPL,2010,Nepal,32.8
+PAK,2004,Pakistan,32.5
+PAK,2005,Pakistan,32.7
+PAK,2007,Pakistan,31.6
+PAK,2010,Pakistan,29.8
+PAK,2011,Pakistan,30.9
+PAK,2013,Pakistan,30.7
+PAK,2015,Pakistan,33.5
+PAN,2003,Panama,55.8
+PAN,2004,Panama,54.8
+PAN,2005,Panama,53.8
+PAN,2006,Panama,54.6
+PAN,2007,Panama,52.7
+PAN,2008,Panama,52.7
+PAN,2009,Panama,51.8
+PAN,2010,Panama,51.6
+PAN,2011,Panama,51.3
+PAN,2012,Panama,51.7
+PAN,2013,Panama,51.5
+PAN,2014,Panama,50.5
+PAN,2015,Panama,50.8
+PER,2003,Peru,53.1
+PER,2004,Peru,49.9
+PER,2005,Peru,50.4
+PER,2006,Peru,50.3
+PER,2007,Peru,50.0
+PER,2008,Peru,47.5
+PER,2009,Peru,47.0
+PER,2010,Peru,45.5
+PER,2011,Peru,44.7
+PER,2012,Peru,44.4
+PER,2013,Peru,43.9
+PER,2014,Peru,43.2
+PER,2015,Peru,43.4
+PHL,2003,Philippines,41.5
+PHL,2006,Philippines,42.9
+PHL,2009,Philippines,41.8
+PHL,2012,Philippines,42.2
+PHL,2015,Philippines,40.1
+PNG,2009,Papua New Guinea,41.9
+POL,2003,Poland,34.9
+POL,2004,Poland,35.4
+POL,2005,Poland,34.5
+POL,2006,Poland,33.7
+POL,2007,Poland,33.5
+POL,2008,Poland,33.7
+POL,2009,Poland,33.6
+POL,2010,Poland,33.2
+POL,2011,Poland,32.8
+POL,2012,Poland,32.4
+POL,2013,Poland,32.5
+POL,2014,Poland,32.1
+POL,2015,Poland,31.8
+PRT,2003,Portugal,38.7
+PRT,2004,Portugal,38.9
+PRT,2005,Portugal,38.5
+PRT,2006,Portugal,38.1
+PRT,2007,Portugal,36.7
+PRT,2008,Portugal,36.6
+PRT,2009,Portugal,34.9
+PRT,2010,Portugal,35.8
+PRT,2011,Portugal,36.3
+PRT,2012,Portugal,36.0
+PRT,2013,Portugal,36.2
+PRT,2014,Portugal,35.6
+PRT,2015,Portugal,35.5
+PRY,2003,Paraguay,54.9
+PRY,2004,Paraguay,52.3
+PRY,2005,Paraguay,51.4
+PRY,2006,Paraguay,53.0
+PRY,2007,Paraguay,53.0
+PRY,2008,Paraguay,50.7
+PRY,2009,Paraguay,49.1
+PRY,2010,Paraguay,51.0
+PRY,2011,Paraguay,52.3
+PRY,2012,Paraguay,47.6
+PRY,2013,Paraguay,47.9
+PRY,2014,Paraguay,50.7
+PRY,2015,Paraguay,47.6
+PSE,2004,West Bank and Gaza,34.0
+PSE,2005,West Bank and Gaza,34.7
+PSE,2006,West Bank and Gaza,34.0
+PSE,2007,West Bank and Gaza,35.6
+PSE,2009,West Bank and Gaza,34.5
+PSE,2010,West Bank and Gaza,35.3
+PSE,2011,West Bank and Gaza,34.4
+ROU,2006,Romania,39.6
+ROU,2007,Romania,37.5
+ROU,2008,Romania,36.4
+ROU,2009,Romania,35.6
+ROU,2010,Romania,35.5
+ROU,2011,Romania,35.9
+ROU,2012,Romania,36.5
+ROU,2013,Romania,36.9
+ROU,2014,Romania,36.0
+ROU,2015,Romania,35.9
+RUS,2003,Russian Federation,40.0
+RUS,2004,Russian Federation,40.3
+RUS,2005,Russian Federation,41.3
+RUS,2006,Russian Federation,41.0
+RUS,2007,Russian Federation,42.3
+RUS,2008,Russian Federation,41.6
+RUS,2009,Russian Federation,39.8
+RUS,2010,Russian Federation,39.5
+RUS,2011,Russian Federation,39.7
+RUS,2012,Russian Federation,40.7
+RUS,2013,Russian Federation,40.9
+RUS,2014,Russian Federation,39.9
+RUS,2015,Russian Federation,37.7
+RWA,2005,Rwanda,52.0
+RWA,2010,Rwanda,47.2
+RWA,2013,Rwanda,45.1
+SDN,2009,Sudan,35.4
+SEN,2005,Senegal,39.2
+SEN,2011,Senegal,40.3
+SLB,2005,Solomon Islands,46.1
+SLB,2013,Solomon Islands,37.1
+SLE,2003,Sierra Leone,40.2
+SLE,2011,Sierra Leone,34.0
+SLV,2003,El Salvador,50.4
+SLV,2004,El Salvador,47.8
+SLV,2005,El Salvador,48.5
+SLV,2006,El Salvador,45.7
+SLV,2007,El Salvador,45.2
+SLV,2008,El Salvador,46.9
+SLV,2009,El Salvador,45.8
+SLV,2010,El Salvador,43.5
+SLV,2011,El Salvador,42.3
+SLV,2012,El Salvador,41.8
+SLV,2013,El Salvador,43.4
+SLV,2014,El Salvador,41.6
+SLV,2015,El Salvador,40.6
+SRB,2003,Serbia,32.8
+SRB,2004,Serbia,35.5
+SRB,2005,Serbia,36.5
+SRB,2006,Serbia,29.7
+SRB,2007,Serbia,28.7
+SRB,2008,Serbia,27.6
+SRB,2009,Serbia,28.0
+SRB,2010,Serbia,29.0
+SRB,2013,Serbia,29.0
+SRB,2015,Serbia,28.5
+SSD,2009,South Sudan,46.3
+STP,2010,Sao Tome and Principe,30.8
+SVK,2004,Slovak Republic,27.1
+SVK,2005,Slovak Republic,29.3
+SVK,2006,Slovak Republic,25.8
+SVK,2007,Slovak Republic,24.7
+SVK,2008,Slovak Republic,26.0
+SVK,2009,Slovak Republic,27.2
+SVK,2010,Slovak Republic,27.3
+SVK,2011,Slovak Republic,26.5
+SVK,2012,Slovak Republic,26.1
+SVK,2013,Slovak Republic,28.1
+SVK,2014,Slovak Republic,26.1
+SVK,2015,Slovak Republic,26.5
+SVN,2004,Slovenia,24.8
+SVN,2005,Slovenia,24.6
+SVN,2006,Slovenia,24.4
+SVN,2007,Slovenia,24.4
+SVN,2008,Slovenia,23.7
+SVN,2009,Slovenia,24.8
+SVN,2010,Slovenia,24.9
+SVN,2011,Slovenia,24.9
+SVN,2012,Slovenia,25.6
+SVN,2013,Slovenia,26.2
+SVN,2014,Slovenia,25.7
+SVN,2015,Slovenia,25.4
+SWE,2003,Sweden,25.3
+SWE,2004,Sweden,26.1
+SWE,2005,Sweden,26.8
+SWE,2006,Sweden,26.4
+SWE,2007,Sweden,27.1
+SWE,2008,Sweden,28.1
+SWE,2009,Sweden,27.3
+SWE,2010,Sweden,27.7
+SWE,2011,Sweden,27.6
+SWE,2012,Sweden,27.6
+SWE,2013,Sweden,28.8
+SWE,2014,Sweden,28.4
+SWE,2015,Sweden,29.2
+SWZ,2009,Eswatini,51.5
+SYC,2013,Seychelles,46.8
+SYR,2004,Syrian Arab Republic,35.8
+TCD,2003,Chad,39.8
+TCD,2011,Chad,43.3
+TGO,2006,Togo,42.2
+TGO,2011,Togo,46.0
+TGO,2015,Togo,43.1
+THA,2004,Thailand,42.5
+THA,2006,Thailand,41.8
+THA,2007,Thailand,39.8
+THA,2008,Thailand,40.3
+THA,2009,Thailand,39.6
+THA,2010,Thailand,39.4
+THA,2011,Thailand,37.5
+THA,2012,Thailand,39.3
+THA,2013,Thailand,37.8
+THA,2014,Thailand,37.0
+THA,2015,Thailand,36.0
+TJK,2003,Tajikistan,32.7
+TJK,2004,Tajikistan,33.6
+TJK,2007,Tajikistan,32.2
+TJK,2009,Tajikistan,30.8
+TJK,2015,Tajikistan,34.0
+TLS,2007,Timor-Leste,27.8
+TLS,2014,Timor-Leste,28.7
+TON,2009,Tonga,37.5
+TON,2015,Tonga,37.6
+TUN,2005,Tunisia,37.7
+TUN,2010,Tunisia,35.8
+TUN,2015,Tunisia,32.8
+TUR,2003,Turkey,42.2
+TUR,2004,Turkey,41.3
+TUR,2005,Turkey,42.6
+TUR,2006,Turkey,39.6
+TUR,2007,Turkey,38.4
+TUR,2008,Turkey,39.0
+TUR,2009,Turkey,39.0
+TUR,2010,Turkey,38.8
+TUR,2011,Turkey,40.0
+TUR,2012,Turkey,40.2
+TUR,2013,Turkey,40.2
+TUR,2014,Turkey,41.2
+TUR,2015,Turkey,42.9
+TUV,2010,Tuvalu,39.1
+TZA,2007,Tanzania,40.3
+TZA,2011,Tanzania,37.8
+UGA,2005,Uganda,42.9
+UGA,2009,Uganda,44.2
+UGA,2012,Uganda,41.0
+UKR,2003,Ukraine,28.7
+UKR,2004,Ukraine,28.9
+UKR,2005,Ukraine,29.0
+UKR,2006,Ukraine,29.8
+UKR,2007,Ukraine,27.0
+UKR,2008,Ukraine,26.6
+UKR,2009,Ukraine,25.3
+UKR,2010,Ukraine,24.8
+UKR,2011,Ukraine,24.6
+UKR,2012,Ukraine,24.7
+UKR,2013,Ukraine,24.6
+UKR,2014,Ukraine,24.0
+UKR,2015,Ukraine,25.5
+URY,2006,Uruguay,45.9
+URY,2007,Uruguay,46.4
+URY,2008,Uruguay,45.1
+URY,2009,Uruguay,45.6
+URY,2010,Uruguay,44.5
+URY,2011,Uruguay,42.2
+URY,2012,Uruguay,39.9
+URY,2013,Uruguay,40.5
+URY,2014,Uruguay,40.1
+URY,2015,Uruguay,40.2
+USA,2004,United States,40.5
+USA,2007,United States,41.1
+USA,2010,United States,40.4
+USA,2013,United States,41.0
+UZB,2003,Uzbekistan,35.3
+VEN,2003,Venezuela RB,50.4
+VEN,2004,Venezuela RB,49.8
+VEN,2005,Venezuela RB,52.4
+VEN,2006,Venezuela RB,46.9
+VNM,2004,Vietnam,36.8
+VNM,2006,Vietnam,35.8
+VNM,2008,Vietnam,35.6
+VNM,2010,Vietnam,39.3
+VNM,2012,Vietnam,35.6
+VNM,2014,Vietnam,34.8
+VUT,2010,Vanuatu,37.6
+WSM,2008,Samoa,42.0
+WSM,2013,Samoa,38.7
+XKX,2003,Kosovo,29.0
+XKX,2005,Kosovo,31.2
+XKX,2006,Kosovo,30.3
+XKX,2009,Kosovo,31.8
+XKX,2010,Kosovo,33.3
+XKX,2011,Kosovo,27.8
+XKX,2012,Kosovo,29.0
+XKX,2013,Kosovo,26.3
+XKX,2014,Kosovo,27.3
+XKX,2015,Kosovo,26.5
+YEM,2005,Yemen Rep.,34.7
+YEM,2014,Yemen Rep.,36.7
+ZAF,2005,South Africa,64.8
+ZAF,2008,South Africa,63.0
+ZAF,2010,South Africa,63.4
+ZAF,2014,South Africa,63.0
+ZMB,2004,Zambia,54.3
+ZMB,2006,Zambia,54.6
+ZMB,2010,Zambia,55.6
+ZMB,2015,Zambia,57.1
+ZWE,2011,Zimbabwe,43.2

@@ -1,0 +1,1001 @@
+validation_hamming_loss,training_hamming_loss,fit_time,test_time,params_data,params_vectorizer,params_factorizer,params_classifier,iteration
+0.03921748237537711,0.038357692912148356,81.27986235500066,20.76457727900015,{'data': 'body'},"{'max_df': 0.9534963477609893, 'min_df': 0.03549345912607054, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 20, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",1
+0.03891516733621997,0.038873173031588874,73.92720223099968,9.141011697000067,{'data': 'title'},"{'max_df': 0.9873147199539133, 'min_df': 0.039109029727093, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.5, 'n_components': 17, 'topic_word_prior': 10}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",2
+0.04090319353477248,0.04112682696841113,76.12096365999969,17.578319958000066,{'data': 'body'},"{'max_df': 0.9740353724215102, 'min_df': 0.0355099637220532, 'ngram_range': (1, 3)}","{'doc_topic_prior': 10, 'n_components': 10, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",3
+0.04035139824613509,0.039944994499449944,81.5318838130006,18.847290139001416,{'data': 'body'},"{'max_df': 0.9541943663421081, 'min_df': 0.04674890086677508, 'ngram_range': (1, 1)}","{'doc_topic_prior': 1, 'n_components': 15, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",4
+0.03894517999781158,0.03882916863114883,96.28733146200102,29.6947612460026,{'data': 'body'},"{'max_df': 0.9892287086852684, 'min_df': 0.029138355433358867, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.05, 'n_components': 16, 'topic_word_prior': 1}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",5
+0.03776718303034093,0.03775891874901776,68.16176416400049,8.930009242998494,{'data': 'title'},"{'max_df': 0.9710648094851076, 'min_df': 0.027521167457636928, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.1, 'n_components': 12, 'topic_word_prior': 10}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",6
+0.0421540337329811,0.04224579600817224,67.06063347199961,7.892773933999706,{'data': 'title'},"{'max_df': 0.982054254170783, 'min_df': 0.047320006836535686, 'ngram_range': (1, 1)}","{'doc_topic_prior': 1, 'n_components': 13, 'topic_word_prior': 0.5}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",7
+0.03774404827036406,0.03772277227722772,68.25209335399995,9.011102039999969,{'data': 'title'},"{'max_df': 0.9588955807311312, 'min_df': 0.02193638722867457, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.05, 'n_components': 16, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",8
+0.0388785894049052,0.038855885588558854,69.77637185999993,8.523000416000286,{'data': 'title'},"{'max_df': 0.983506257482421, 'min_df': 0.029858668143868665, 'ngram_range': (1, 1)}","{'doc_topic_prior': 5, 'n_components': 20, 'topic_word_prior': 0.5}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",9
+0.0397286355181092,0.03924249567813924,94.63447983000151,21.1718139600016,{'data': 'body'},"{'max_df': 0.9678060494112435, 'min_df': 0.029406302533045985, 'ngram_range': (1, 1)}","{'doc_topic_prior': 0.5, 'n_components': 11, 'topic_word_prior': 0.5}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",10
+0.03569568411673675,0.03465660851799466,80.618449728001,19.980578453996714,{'data': 'both'},"{'max_df': 0.9801872567100984, 'min_df': 0.015178561729575019, 'ngram_range': (1, 3)}","{'doc_topic_prior': 5, 'n_components': 19, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",11
+0.037168180326075065,0.03664152129498664,71.89305436200084,15.495791016997828,{'data': 'both'},"{'max_df': 0.9694605519349008, 'min_df': 0.024339260902934562, 'ngram_range': (1, 1)}","{'doc_topic_prior': 5, 'n_components': 17, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",12
+0.03976052397105029,0.03811409712399812,95.1004194019988,21.53202090099876,{'data': 'body'},"{'max_df': 0.9605059538210886, 'min_df': 0.03666393010622525, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.5, 'n_components': 20, 'topic_word_prior': 10}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",13
+0.039953105216263114,0.03967939651107968,79.08083758700013,14.37155365199942,{'data': 'body'},"{'max_df': 0.9590346778556338, 'min_df': 0.013658231154124607, 'ngram_range': (1, 1)}","{'doc_topic_prior': 10, 'n_components': 19, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",14
+0.03547309020993231,0.035296243910105295,72.57019550499899,8.571209642999747,{'data': 'title'},"{'max_df': 0.9817957310357887, 'min_df': 0.01443142629801743, 'ngram_range': (1, 1)}","{'doc_topic_prior': 10, 'n_components': 18, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",15
+0.03791412001938318,0.037604903347477604,94.45769202199881,30.25802510200083,{'data': 'both'},"{'max_df': 0.9647731330553349, 'min_df': 0.035600400062960995, 'ngram_range': (1, 1)}","{'doc_topic_prior': 0.05, 'n_components': 14, 'topic_word_prior': 1}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",16
+0.03932002563581511,0.039088480276599086,96.3641731860007,31.33143758799997,{'data': 'both'},"{'max_df': 0.9550059672460695, 'min_df': 0.04604095001153425, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.05, 'n_components': 10, 'topic_word_prior': 10}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",17
+0.04073687336845232,0.03983812666980984,91.50901431599777,19.482635014999687,{'data': 'body'},"{'max_df': 0.9698124456772756, 'min_df': 0.037241564986428555, 'ngram_range': (1, 1)}","{'doc_topic_prior': 0.5, 'n_components': 14, 'topic_word_prior': 1}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",18
+0.03724633829896988,0.03660694640892661,72.11690832699969,16.31216522500108,{'data': 'both'},"{'max_df': 0.9886441489172826, 'min_df': 0.025694267097351613, 'ngram_range': (1, 1)}","{'doc_topic_prior': 5, 'n_components': 12, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",19
+0.03861691651165335,0.03864843627219865,92.8650946480011,27.083942410998134,{'data': 'both'},"{'max_df': 0.9508550913939214, 'min_df': 0.043595320478027236, 'ngram_range': (1, 1)}","{'doc_topic_prior': 0.05, 'n_components': 11, 'topic_word_prior': 0.5}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",20
+0.03611711190658559,0.03584001257268584,70.61545630499677,9.124353217001044,{'data': 'title'},"{'max_df': 0.9773838595284065, 'min_df': 0.010755370583809345, 'ngram_range': (1, 3)}","{'doc_topic_prior': 10, 'n_components': 18, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",21
+0.03647069857596173,0.036083608360836086,114.96515555899896,39.57348596299926,{'data': 'both'},"{'max_df': 0.9783239968795939, 'min_df': 0.0166093435128556, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.1, 'n_components': 18, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",22
+0.038482797430165853,0.038573000157158574,85.55601916599699,18.944903671999782,{'data': 'both'},"{'max_df': 0.9845717926290793, 'min_df': 0.01816921011358312, 'ngram_range': (1, 3)}","{'doc_topic_prior': 10, 'n_components': 19, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",23
+0.03367608209713473,0.033041018387553044,72.690966948001,9.12519633500051,{'data': 'title'},"{'max_df': 0.9791966252004477, 'min_df': 0.010235794144424475, 'ngram_range': (1, 3)}","{'doc_topic_prior': 5, 'n_components': 18, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",24
+0.035638159848686166,0.03524280999528524,69.9370149819988,9.009886236002785,{'data': 'title'},"{'max_df': 0.975216325982015, 'min_df': 0.010942437685800043, 'ngram_range': (1, 3)}","{'doc_topic_prior': 10, 'n_components': 18, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",25
+0.03736638894533632,0.03710828225679711,69.12646661199688,9.118542116000754,{'data': 'title'},"{'max_df': 0.9861622676786217, 'min_df': 0.02095277951401491, 'ngram_range': (1, 3)}","{'doc_topic_prior': 5, 'n_components': 18, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",26
+0.035574382942803996,0.03537325161087537,71.49449440199896,8.883091037998383,{'data': 'title'},"{'max_df': 0.973689386301878, 'min_df': 0.013278232645501969, 'ngram_range': (1, 2)}","{'doc_topic_prior': 5, 'n_components': 18, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",27
+0.03789161052318947,0.03765519409083765,69.98008158099765,8.813310898000054,{'data': 'title'},"{'max_df': 0.9806047845201632, 'min_df': 0.020254217177191704, 'ngram_range': (1, 1)}","{'doc_topic_prior': 0.1, 'n_components': 15, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",28
+0.03346161661951136,0.033251610875373254,69.44770308599982,9.009780156000488,{'data': 'title'},"{'max_df': 0.9772599374803359, 'min_df': 0.01091347683062003, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 18, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",29
+0.03792568739937161,0.03776363350620776,69.53606316700098,9.752062748000753,{'data': 'title'},"{'max_df': 0.9660503991630183, 'min_df': 0.010123732345054598, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 13, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",30
+0.03542369437106279,0.03475561841898476,67.78785665800024,8.87734997699954,{'data': 'title'},"{'max_df': 0.9760443349324438, 'min_df': 0.017504774976637667, 'ngram_range': (1, 2)}","{'doc_topic_prior': 5, 'n_components': 18, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",31
+0.03889672205461679,0.03885745717428886,68.17510705500172,8.879819169000257,{'data': 'title'},"{'max_df': 0.9732917977277556, 'min_df': 0.03324892805420218, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 17, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",32
+0.03663014084066716,0.036291057677196294,68.49286157999813,8.968770477997168,{'data': 'title'},"{'max_df': 0.9778328172634502, 'min_df': 0.012090595286194607, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 10, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",33
+0.03781470307786097,0.03774948923463775,68.6320504280011,8.589089772998705,{'data': 'title'},"{'max_df': 0.9899051077479717, 'min_df': 0.02411378155793307, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 18, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",34
+0.037132227658543446,0.03679396511079679,67.23129634700308,8.924276977999398,{'data': 'title'},"{'max_df': 0.9718288948044308, 'min_df': 0.019140122315929653, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.1, 'n_components': 15, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",35
+0.03881762618604724,0.03882916863114883,73.96589762900112,8.951761977998103,{'data': 'title'},"{'max_df': 0.9871350556166139, 'min_df': 0.04152987583396896, 'ngram_range': (1, 3)}","{'doc_topic_prior': 5, 'n_components': 12, 'topic_word_prior': 1}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",36
+0.038828568302252515,0.038796165330818796,67.78274471799887,8.82729867099988,{'data': 'title'},"{'max_df': 0.9796661567020073, 'min_df': 0.03290956159955845, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 16, 'topic_word_prior': 10}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",37
+0.038002282212808526,0.03790350463617791,69.44795466899814,9.051861007003026,{'data': 'title'},"{'max_df': 0.9617814421210071, 'min_df': 0.02301683032757185, 'ngram_range': (1, 3)}","{'doc_topic_prior': 1, 'n_components': 13, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",38
+0.0390805496068654,0.03768033946251768,74.36028769699988,16.534359402998234,{'data': 'body'},"{'max_df': 0.9643743854172547, 'min_df': 0.026351360296436952, 'ngram_range': (1, 2)}","{'doc_topic_prior': 5, 'n_components': 20, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",39
+0.03803260750629172,0.03801980198019802,69.98930330200164,9.164890984000522,{'data': 'title'},"{'max_df': 0.9844422589822647, 'min_df': 0.01551665204074936, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.5, 'n_components': 11, 'topic_word_prior': 0.5}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",40
+0.03673581042002095,0.03641992770705642,69.24143687099786,9.246859843999118,{'data': 'title'},"{'max_df': 0.9826556731260662, 'min_df': 0.012601272688109073, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.1, 'n_components': 16, 'topic_word_prior': 1}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",41
+0.040799087114876585,0.041034103410341034,78.32139627699871,15.163035259996832,{'data': 'body'},"{'max_df': 0.9673685289960146, 'min_df': 0.032092949321637095, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 17, 'topic_word_prior': 10}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",42
+0.04394729026307974,0.044078264969354075,68.57109497900092,8.865884339000331,{'data': 'title'},"{'max_df': 0.9722629652187806, 'min_df': 0.04937636239942873, 'ngram_range': (1, 3)}","{'doc_topic_prior': 5, 'n_components': 14, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",43
+0.03683835368045894,0.036537796636806535,70.7192227710002,9.218223102998309,{'data': 'title'},"{'max_df': 0.9755739469140288, 'min_df': 0.01610331679299173, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.5, 'n_components': 18, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",44
+0.03959326590905538,0.03918120383466918,90.08279997800128,25.668518487000256,{'data': 'body'},"{'max_df': 0.9856532851875467, 'min_df': 0.022147815891061885, 'ngram_range': (1, 3)}","{'doc_topic_prior': 1, 'n_components': 10, 'topic_word_prior': 0.5}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",45
+0.0364500648711175,0.0362973440201163,71.16666565600099,9.539493590000347,{'data': 'title'},"{'max_df': 0.9691032448294529, 'min_df': 0.010013711123250984, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.05, 'n_components': 15, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",46
+0.04041361199255936,0.04049190633349049,86.07990561399856,16.943811297998764,{'data': 'body'},"{'max_df': 0.9813317315251014, 'min_df': 0.04025754747418337, 'ngram_range': (1, 3)}","{'doc_topic_prior': 10, 'n_components': 20, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",47
+0.03777906304222094,0.03778720729215779,69.93496362099904,8.789145547998487,{'data': 'title'},"{'max_df': 0.9788718247339403, 'min_df': 0.028268187331913223, 'ngram_range': (1, 2)}","{'doc_topic_prior': 5, 'n_components': 19, 'topic_word_prior': 10}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",48
+0.03739327528801213,0.03721200691497721,111.62504243000149,30.590820552002697,{'data': 'both'},"{'max_df': 0.9880878202710122, 'min_df': 0.019341832467529636, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.5, 'n_components': 12, 'topic_word_prior': 1}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",49
+0.038902974692448376,0.03884331290271884,71.10771539299822,8.976670298998215,{'data': 'title'},"{'max_df': 0.9766978480841252, 'min_df': 0.031112208529802284, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.05, 'n_components': 18, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",50
+0.039821487189908245,0.03988998899889989,78.86358311199729,20.09245945600196,{'data': 'body'},"{'max_df': 0.9710447457245266, 'min_df': 0.01460424231619618, 'ngram_range': (1, 3)}","{'doc_topic_prior': 5, 'n_components': 13, 'topic_word_prior': 0.5}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",51
+0.03870289028183765,0.03804180418041804,74.4300935350002,16.728416502999607,{'data': 'both'},"{'max_df': 0.9563696453358774, 'min_df': 0.012056961430678817, 'ngram_range': (1, 1)}","{'doc_topic_prior': 10, 'n_components': 11, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",52
+0.03776030512872618,0.03777306302058777,71.34704913399764,9.165010394001001,{'data': 'title'},"{'max_df': 0.9627477724438667, 'min_df': 0.026758692752949634, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.1, 'n_components': 14, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",53
+0.037767808294124086,0.037757347163287755,72.33095489599873,9.253363619001902,{'data': 'title'},"{'max_df': 0.9743555868718711, 'min_df': 0.024611959742510174, 'ngram_range': (1, 3)}","{'doc_topic_prior': 10, 'n_components': 18, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",54
+0.03865662076188392,0.038684582743988685,75.99567709300027,15.049432630999945,{'data': 'both'},"{'max_df': 0.982589568589294, 'min_df': 0.044446123956694644, 'ngram_range': (1, 1)}","{'doc_topic_prior': 5, 'n_components': 16, 'topic_word_prior': 10}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",55
+0.03634345739608898,0.03594373723086594,71.73844496699894,9.877601391002827,{'data': 'title'},"{'max_df': 0.9841034203663758, 'min_df': 0.01734967800651218, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.05, 'n_components': 17, 'topic_word_prior': 1}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",56
+0.03836743626217311,0.03738802451673739,88.66075694499887,23.740480718999606,{'data': 'body'},"{'max_df': 0.9683514238878018, 'min_df': 0.03483556301325206, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 18, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",57
+0.03541994278836384,0.035102938865315104,73.68258937500286,10.063919723001163,{'data': 'title'},"{'max_df': 0.9504096714771467, 'min_df': 0.014184492898174686, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.5, 'n_components': 19, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",58
+0.03969111969111969,0.039002043061449,77.24965703899943,17.437453358998027,{'data': 'both'},"{'max_df': 0.9708959395891782, 'min_df': 0.011299303777049447, 'ngram_range': (1, 1)}","{'doc_topic_prior': 10, 'n_components': 10, 'topic_word_prior': 0.5}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",59
+0.036048958154221315,0.035596416784535595,71.01391282600162,9.2637808699983,{'data': 'title'},"{'max_df': 0.9796456061794429, 'min_df': 0.02006898045140597, 'ngram_range': (1, 2)}","{'doc_topic_prior': 5, 'n_components': 18, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",60
+0.03775530301846091,0.03776991984912777,69.65050352400067,9.434250930000417,{'data': 'title'},"{'max_df': 0.9583862087014003, 'min_df': 0.028188620866359797, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.1, 'n_components': 12, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",61
+0.03948540790646054,0.0392063492063492,81.3129493660017,16.77871949600012,{'data': 'body'},"{'max_df': 0.9670736386955264, 'min_df': 0.021508214156149348, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 20, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",62
+0.03712284870179607,0.036003457488606005,77.8034595019999,17.260895232997427,{'data': 'both'},"{'max_df': 0.9870722977835237, 'min_df': 0.01828747889903027, 'ngram_range': (1, 1)}","{'doc_topic_prior': 5, 'n_components': 15, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",63
+0.04394729026307974,0.044078264969354075,71.34688217700023,9.201960041998973,{'data': 'title'},"{'max_df': 0.9726348807600024, 'min_df': 0.0493749894241499, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.05, 'n_components': 18, 'topic_word_prior': 10}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",64
+0.040231034967877076,0.04008643721515009,72.26260068600095,8.88544754800023,{'data': 'title'},"{'max_df': 0.9745262244528469, 'min_df': 0.03730864180024664, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 11, 'topic_word_prior': 1}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",65
+0.036914948493895865,0.03684111268269684,73.62124076699911,9.858587244998489,{'data': 'title'},"{'max_df': 0.9776618597651363, 'min_df': 0.01307944397118236, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.5, 'n_components': 19, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",66
+0.03541994278836384,0.035102938865315104,73.47467077300098,10.0283607090023,{'data': 'title'},"{'max_df': 0.9505797153588257, 'min_df': 0.01412165583963157, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.5, 'n_components': 19, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",67
+0.0357325746799431,0.035627848499135625,74.43012474200077,9.993607271000656,{'data': 'title'},"{'max_df': 0.9517107388647189, 'min_df': 0.010101166402472703, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.5, 'n_components': 19, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",68
+0.03719068982226877,0.03706113468489706,75.5278273949989,9.94616616499843,{'data': 'title'},"{'max_df': 0.9805664558714284, 'min_df': 0.015349291880100115, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.5, 'n_components': 19, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",69
+0.035855439013333754,0.03570957095709571,71.48506491900116,10.04944718600018,{'data': 'title'},"{'max_df': 0.9766251729044912, 'min_df': 0.016626796713884368, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.5, 'n_components': 19, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",70
+0.03754646491488597,0.03735187804494735,73.50678922599764,9.305504513002234,{'data': 'title'},"{'max_df': 0.9652414010359646, 'min_df': 0.01168579083533176, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.5, 'n_components': 13, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",71
+0.037299798352429935,0.03707999371365708,72.99353281200092,9.730541422999522,{'data': 'title'},"{'max_df': 0.9630188060435785, 'min_df': 0.013862704168456641, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.5, 'n_components': 14, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",72
+0.038970503181029494,0.03883859814552884,71.94777065100061,9.286261322999053,{'data': 'title'},"{'max_df': 0.9531045610002615, 'min_df': 0.022585877957075538, 'ngram_range': (1, 3)}","{'doc_topic_prior': 10, 'n_components': 18, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",73
+0.03451112187954293,0.033735659280213735,72.0924825180009,9.495904160001373,{'data': 'title'},"{'max_df': 0.9895986277114872, 'min_df': 0.01087190583112374, 'ngram_range': (1, 3)}","{'doc_topic_prior': 5, 'n_components': 16, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",74
+0.03437762806183859,0.03366965267955367,72.16059143000166,9.873051873000804,{'data': 'title'},"{'max_df': 0.9835538819754253, 'min_df': 0.01053895942162629, 'ngram_range': (1, 3)}","{'doc_topic_prior': 5, 'n_components': 16, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",75
+0.034811248495459024,0.03407355021216407,74.34702375800043,12.2907268309973,{'data': 'title'},"{'max_df': 0.9863370391149935, 'min_df': 0.012844478498689044, 'ngram_range': (1, 2)}","{'doc_topic_prior': 5, 'n_components': 16, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",76
+0.03577196629828209,0.03548169102624548,71.97417585700168,8.884712819002743,{'data': 'title'},"{'max_df': 0.9836156653796262, 'min_df': 0.018454356837117096, 'ngram_range': (1, 1)}","{'doc_topic_prior': 5, 'n_components': 16, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",77
+0.03895299579510106,0.03838755304101839,81.05458035099946,20.335654659000284,{'data': 'body'},"{'max_df': 0.9850246419556783, 'min_df': 0.016946679787025253, 'ngram_range': (1, 3)}","{'doc_topic_prior': 5, 'n_components': 16, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",78
+0.03585043690306848,0.03499135627848499,77.77075820199752,19.561021903999062,{'data': 'both'},"{'max_df': 0.9791990237082306, 'min_df': 0.020771096204444273, 'ngram_range': (1, 2)}","{'doc_topic_prior': 5, 'n_components': 17, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",79
+0.0379213105528895,0.037963224893917964,70.10634181400019,9.428214759002003,{'data': 'title'},"{'max_df': 0.9814886973642468, 'min_df': 0.023946157486913644, 'ngram_range': (1, 3)}","{'doc_topic_prior': 5, 'n_components': 10, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",80
+0.03574883153830522,0.0351956624233852,71.64902553099819,9.71311691899973,{'data': 'title'},"{'max_df': 0.9883412163053299, 'min_df': 0.015794335540565942, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.1, 'n_components': 18, 'topic_word_prior': 0.5}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",81
+0.032210463789411156,0.031426999842841426,71.49376455700258,9.552422158001718,{'data': 'title'},"{'max_df': 0.9783411333095825, 'min_df': 0.010461340582097071, 'ngram_range': (1, 3)}","{'doc_topic_prior': 5, 'n_components': 16, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",82
+0.03921091710565395,0.03827125569699827,86.6531628720004,14.84701111299728,{'data': 'body'},"{'max_df': 0.9783607682178733, 'min_df': 0.025239544733830624, 'ngram_range': (1, 1)}","{'doc_topic_prior': 10, 'n_components': 20, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",83
+0.03888734309786941,0.038854314002828856,72.4771301059991,9.190589632999036,{'data': 'title'},"{'max_df': 0.9753757325199007, 'min_df': 0.03015674811986879, 'ngram_range': (1, 3)}","{'doc_topic_prior': 5, 'n_components': 12, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",84
+0.03667891141575352,0.03615118654722615,96.69362161000026,27.28796791900095,{'data': 'both'},"{'max_df': 0.9729775943574136, 'min_df': 0.01920097064006504, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 15, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",85
+0.03721820142872775,0.03688354549740688,70.86580917800165,9.613167068000621,{'data': 'title'},"{'max_df': 0.9769158323339964, 'min_df': 0.014906920029574527, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.05, 'n_components': 18, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",86
+0.03790224000750317,0.037905076221907905,72.38935893499729,8.990733255002851,{'data': 'title'},"{'max_df': 0.9824337095085628, 'min_df': 0.02338120677562318, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 11, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",87
+0.034181295233926816,0.03368851170831369,70.47843635299796,9.483674589999282,{'data': 'title'},"{'max_df': 0.9737782528345374, 'min_df': 0.012235376760380827, 'ngram_range': (1, 3)}","{'doc_topic_prior': 5, 'n_components': 13, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",88
+0.04073937442358495,0.040518623290900516,104.74322646200017,28.958664688998397,{'data': 'body'},"{'max_df': 0.9700791723254351, 'min_df': 0.04714193150552235, 'ngram_range': (1, 1)}","{'doc_topic_prior': 0.1, 'n_components': 14, 'topic_word_prior': 10}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",89
+0.03686023791286949,0.03633820524909634,81.98797304999971,16.437134242001775,{'data': 'both'},"{'max_df': 0.9718769828731124, 'min_df': 0.03874116340924579, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 18, 'topic_word_prior': 1}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",90
+0.038807309333625126,0.03882759704541883,69.2695171000014,9.122975588001282,{'data': 'title'},"{'max_df': 0.980407143706838, 'min_df': 0.042077192282009276, 'ngram_range': (1, 3)}","{'doc_topic_prior': 5, 'n_components': 16, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",91
+0.03495787285260969,0.03455759861700456,70.42772579899975,9.02453692799827,{'data': 'title'},"{'max_df': 0.9746975579420571, 'min_df': 0.017670080471474985, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 18, 'topic_word_prior': 0.5}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",92
+0.037485814327919594,0.03748860600345749,70.22113397599969,9.111175539001124,{'data': 'title'},"{'max_df': 0.9663407816031218, 'min_df': 0.010070168339216447, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.05, 'n_components': 17, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",93
+0.040496772075719445,0.04005814867201006,72.46102604400221,16.5665426020023,{'data': 'body'},"{'max_df': 0.9761185525243975, 'min_df': 0.013486216988767487, 'ngram_range': (1, 1)}","{'doc_topic_prior': 5, 'n_components': 10, 'topic_word_prior': 10}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",94
+0.03397620871305082,0.03369008329404369,69.19611828300185,9.040037625996774,{'data': 'title'},"{'max_df': 0.9704724246599044, 'min_df': 0.011412589355515132, 'ngram_range': (1, 3)}","{'doc_topic_prior': 10, 'n_components': 12, 'topic_word_prior': 1}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",95
+0.035066981382770854,0.03443972968725444,111.07630955000059,34.012720295999316,{'data': 'both'},"{'max_df': 0.9783640862189066, 'min_df': 0.016104609107253608, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.1, 'n_components': 20, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",96
+0.03614212245791193,0.036027031274556025,68.86382513900026,9.0956744469986,{'data': 'title'},"{'max_df': 0.9688547318074457, 'min_df': 0.02012659726107037, 'ngram_range': (1, 3)}","{'doc_topic_prior': 5, 'n_components': 15, 'topic_word_prior': 0.5}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",97
+0.037922561080455816,0.03795222379380795,69.63970868300021,8.824237231001462,{'data': 'title'},"{'max_df': 0.9852732587800223, 'min_df': 0.026757271492623132, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 18, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",98
+0.04394729026307974,0.044078264969354075,65.54293314000097,9.32084646200019,{'data': 'title'},"{'max_df': 0.9830663895806031, 'min_df': 0.04821450105344425, 'ngram_range': (1, 3)}","{'doc_topic_prior': 5, 'n_components': 16, 'topic_word_prior': 10}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",99
+0.03961577540524909,0.039509665252239506,86.414839467001,19.700421192002977,{'data': 'body'},"{'max_df': 0.9811340973268796, 'min_df': 0.03479143829253122, 'ngram_range': (1, 1)}","{'doc_topic_prior': 1, 'n_components': 11, 'topic_word_prior': 1}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",100
+0.03764275553749238,0.03753103881816753,69.57146004700189,9.275551291000738,{'data': 'title'},"{'max_df': 0.9799130448920832, 'min_df': 0.012803734057701549, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.05, 'n_components': 13, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",101
+0.03762931236615447,0.03578657865786579,75.07222367099894,19.339997020000737,{'data': 'both'},"{'max_df': 0.9681427989392111, 'min_df': 0.021083924231811636, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 18, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",102
+0.03559345348819033,0.03534339148200534,68.26871672599736,9.071898292000697,{'data': 'title'},"{'max_df': 0.9889816820503299, 'min_df': 0.01496501134490573, 'ngram_range': (1, 3)}","{'doc_topic_prior': 5, 'n_components': 14, 'topic_word_prior': 0.5}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",103
+0.04207900207900208,0.04216721672167217,73.71661526400203,9.322075586998835,{'data': 'title'},"{'max_df': 0.9866105043107956, 'min_df': 0.04520116606058469, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.1, 'n_components': 17, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",104
+0.03592671908461382,0.03563413484205563,68.31727668299936,9.163795484997536,{'data': 'title'},"{'max_df': 0.9876573581846473, 'min_df': 0.018441352157477366, 'ngram_range': (1, 3)}","{'doc_topic_prior': 5, 'n_components': 16, 'topic_word_prior': 10}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",105
+0.04076501023869445,0.040625491120540626,79.27785929400125,14.771293950001564,{'data': 'body'},"{'max_df': 0.9819070085746566, 'min_df': 0.01199793877660065, 'ngram_range': (1, 1)}","{'doc_topic_prior': 10, 'n_components': 18, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",106
+0.036034264455317086,0.035645135942165646,68.38702643299985,9.232268701001885,{'data': 'title'},"{'max_df': 0.97160710782967, 'min_df': 0.016636412339941307, 'ngram_range': (1, 3)}","{'doc_topic_prior': 5, 'n_components': 10, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",107
+0.034386381754802804,0.03409240924092409,92.33884793199832,25.92119132100197,{'data': 'both'},"{'max_df': 0.9792469017412063, 'min_df': 0.01080743693215993, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 20, 'topic_word_prior': 1}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",108
+0.03885920622762728,0.038854314002828856,70.61462072799986,9.299555756002519,{'data': 'title'},"{'max_df': 0.9759390876534566, 'min_df': 0.029044864453004023, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.05, 'n_components': 12, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",109
+0.032649711597080015,0.03078107810781078,68.73339425800077,9.045757250998577,{'data': 'title'},"{'max_df': 0.9773633814403723, 'min_df': 0.010098182060989338, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 18, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",110
+0.037966329545276914,0.03788464560741788,67.48431377599991,8.759091246000025,{'data': 'title'},"{'max_df': 0.9734906637847042, 'min_df': 0.021958292833495707, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 15, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",111
+0.037941318993950576,0.03797108282256797,68.69405318700228,8.778362195000227,{'data': 'title'},"{'max_df': 0.9605151718508446, 'min_df': 0.025189361300338338, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 16, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",112
+0.040313569787254,0.0387993085022788,73.33369308300098,16.71199186800004,{'data': 'body'},"{'max_df': 0.9774076532958235, 'min_df': 0.013589051481201493, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 18, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",113
+0.038988010566957935,0.03898789878987899,68.07153275599921,8.797438925997994,{'data': 'title'},"{'max_df': 0.9694240178246675, 'min_df': 0.03271887514526432, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 11, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",114
+0.03917308864677286,0.037977369165487974,75.34419964600238,17.716829780998523,{'data': 'both'},"{'max_df': 0.9640981973272413, 'min_df': 0.014466103352566602, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 13, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",115
+0.03889140731245994,0.03884488448844885,68.81156872700012,11.101149252997857,{'data': 'title'},"{'max_df': 0.9749576477209274, 'min_df': 0.03107991879565292, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 14, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",116
+0.03610554452659716,0.035403111739745405,68.22988212799828,9.187809315000777,{'data': 'title'},"{'max_df': 0.9841768560760833, 'min_df': 0.01924919754932948, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 18, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",117
+0.03537179747706064,0.03484205563413484,68.66623942300066,8.906108054001379,{'data': 'title'},"{'max_df': 0.9725189058158784, 'min_df': 0.01786736620104787, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 16, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",118
+0.04068059962796805,0.0389014615747289,77.87151351400098,16.994922564001172,{'data': 'body'},"{'max_df': 0.9857699757231005, 'min_df': 0.010056757145361975, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 17, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",119
+0.0377615556562925,0.03777620619204777,70.36126234399853,9.072941477999848,{'data': 'title'},"{'max_df': 0.966661226287297, 'min_df': 0.02338878586127486, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.1, 'n_components': 18, 'topic_word_prior': 0.5}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",120
+0.03961233645444172,0.039563099167059565,74.69163039499836,17.982882538999547,{'data': 'both'},"{'max_df': 0.9783490189222124, 'min_df': 0.015843398424113454, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 10, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",121
+0.03284885811201601,0.03143800094295144,69.4441597469995,9.532392265999079,{'data': 'title'},"{'max_df': 0.9651523565445466, 'min_df': 0.011500193330255534, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 20, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",122
+0.03284885811201601,0.03143800094295144,69.61451714299983,11.735556430998258,{'data': 'title'},"{'max_df': 0.9583398259277304, 'min_df': 0.011585565169887114, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 20, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",123
+0.038835758835758835,0.03882602545968883,71.38703515099769,8.035854884998116,{'data': 'title'},"{'max_df': 0.955164884235159, 'min_df': 0.03938518195037853, 'ngram_range': (1, 1)}","{'doc_topic_prior': 1, 'n_components': 20, 'topic_word_prior': 10}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",124
+0.0389101652259547,0.038846456074178845,70.49542829299753,8.451001368001016,{'data': 'title'},"{'max_df': 0.9615043284602436, 'min_df': 0.036311548067858565, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 20, 'topic_word_prior': 1}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",125
+0.03801978959873697,0.03635706427785636,82.85296049400131,21.91074736399969,{'data': 'body'},"{'max_df': 0.9570623663495741, 'min_df': 0.027595365022000985, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 20, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",126
+0.03612617823144139,0.035497406883545496,67.33314110799984,8.63798151300216,{'data': 'title'},"{'max_df': 0.9531261243295901, 'min_df': 0.020000721598284435, 'ngram_range': (1, 1)}","{'doc_topic_prior': 1, 'n_components': 20, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",127
+0.0366717208822472,0.034592173503064594,89.97795428300014,25.573559374999604,{'data': 'both'},"{'max_df': 0.9629818584867568, 'min_df': 0.012227175275902214, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 20, 'topic_word_prior': 0.5}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",128
+0.036078032920138184,0.03569071192833569,68.18660174199977,8.954673355001432,{'data': 'title'},"{'max_df': 0.959738706430518, 'min_df': 0.017292418330067616, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 12, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",129
+0.04207962734278524,0.04216721672167217,70.99457561899908,8.358437497001432,{'data': 'title'},"{'max_df': 0.9542439463384959, 'min_df': 0.043265361138862216, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 15, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",130
+0.03717849717849718,0.037048561999057046,69.45775677799975,8.956966542998998,{'data': 'title'},"{'max_df': 0.9674161116452142, 'min_df': 0.013335473266831627, 'ngram_range': (1, 1)}","{'doc_topic_prior': 0.05, 'n_components': 16, 'topic_word_prior': 10}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",131
+0.038610976505713344,0.03838283828382838,90.38762928600045,24.381851774000097,{'data': 'body'},"{'max_df': 0.9522580646899523, 'min_df': 0.01521468102429311, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 11, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",132
+0.03532271427008269,0.034816910262454814,70.3859298440002,8.990859634002845,{'data': 'title'},"{'max_df': 0.9640897891506492, 'min_df': 0.01411180266856666, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.5, 'n_components': 20, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",133
+0.037475184843605895,0.03721986484362722,100.48768715200276,31.106082608002907,{'data': 'both'},"{'max_df': 0.9577678161419747, 'min_df': 0.026213664161722782, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.1, 'n_components': 13, 'topic_word_prior': 1}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",134
+0.03793412846044425,0.037644192990727646,69.41127287400013,8.404870936999941,{'data': 'title'},"{'max_df': 0.9711850316471514, 'min_df': 0.02231574525726755, 'ngram_range': (1, 1)}","{'doc_topic_prior': 1, 'n_components': 19, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",135
+0.037681209260156626,0.037515322960867514,69.06990900600067,9.109029146999092,{'data': 'title'},"{'max_df': 0.9615549473639172, 'min_df': 0.010943215332403361, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.05, 'n_components': 14, 'topic_word_prior': 0.5}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",136
+0.038908289434605225,0.03883074021687883,71.57452671300052,8.429554735997954,{'data': 'title'},"{'max_df': 0.9655884180898724, 'min_df': 0.033821249665380186, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 16, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",137
+0.039563565879355354,0.03816910262454817,101.66333972600114,23.093912235999596,{'data': 'body'},"{'max_df': 0.9698959518481788, 'min_df': 0.018627910374223296, 'ngram_range': (1, 1)}","{'doc_topic_prior': 0.5, 'n_components': 17, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",138
+0.03645725540462383,0.036245481691026246,68.41544787499879,9.591718689000118,{'data': 'title'},"{'max_df': 0.9558233534640275, 'min_df': 0.016534903018942355, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 10, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",139
+0.035043846622793993,0.03472104353292472,109.48573459800173,37.573274452002806,{'data': 'both'},"{'max_df': 0.9650654743906238, 'min_df': 0.020677901138682144, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.1, 'n_components': 20, 'topic_word_prior': 10}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",140
+0.03887515045409782,0.03884488448844885,70.6877903090026,8.849523971999588,{'data': 'title'},"{'max_df': 0.9810034037594673, 'min_df': 0.029883205827810046, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.05, 'n_components': 12, 'topic_word_prior': 1}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",141
+0.03779875885139043,0.037791922049347795,66.26749507800196,8.785301267998875,{'data': 'title'},"{'max_df': 0.9742977446271613, 'min_df': 0.024341100786024722, 'ngram_range': (1, 2)}","{'doc_topic_prior': 5, 'n_components': 16, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",142
+0.036433182748972226,0.03593116454502593,73.34706311199989,9.58603255900016,{'data': 'title'},"{'max_df': 0.9689222977002622, 'min_df': 0.01013476609896903, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.5, 'n_components': 15, 'topic_word_prior': 0.5}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",143
+0.03910681068575805,0.03877259154486877,106.67636303499967,33.58198236899989,{'data': 'body'},"{'max_df': 0.9899338442905614, 'min_df': 0.012553733715295447, 'ngram_range': (1, 1)}","{'doc_topic_prior': 0.1, 'n_components': 14, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",144
+0.038908914698388385,0.038854314002828856,67.60313379699801,8.507520850998844,{'data': 'title'},"{'max_df': 0.9731555356805834, 'min_df': 0.037785644465050096, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 13, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",145
+0.03224672908883435,0.030887945937450888,70.0417870229976,9.320418488998257,{'data': 'title'},"{'max_df': 0.9606757424699444, 'min_df': 0.011134300585368065, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 20, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",146
+0.03284885811201601,0.03143800094295144,69.34293701999923,9.381770771997253,{'data': 'title'},"{'max_df': 0.9595461876741743, 'min_df': 0.011492054694113829, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 20, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",147
+0.033955887640098166,0.03266226622662266,68.08564673799992,9.27115688000049,{'data': 'title'},"{'max_df': 0.9599664369496371, 'min_df': 0.01306379635341158, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 20, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",148
+0.03462929673455989,0.03362879145057363,69.73622617100045,9.031158182999206,{'data': 'title'},"{'max_df': 0.9584854003821055, 'min_df': 0.014650313109114837, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 20, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",149
+0.03483813483813484,0.034040546911834044,69.9689489659977,8.867087801001617,{'data': 'title'},"{'max_df': 0.9568687573081099, 'min_df': 0.015729301844915895, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 20, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",150
+0.03242805558595032,0.03126041175546126,69.96184237899797,9.402917316998355,{'data': 'title'},"{'max_df': 0.9623985346632078, 'min_df': 0.010666836411775862, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 20, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",151
+0.03447016710174605,0.033283042589973284,68.57970109400048,9.07943036999859,{'data': 'title'},"{'max_df': 0.9621276478555121, 'min_df': 0.01405387632575068, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 20, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",152
+0.03282353492879809,0.03145057362879145,69.83526048000203,9.548141528000997,{'data': 'title'},"{'max_df': 0.9633833526714447, 'min_df': 0.010047743768417846, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 19, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",153
+0.036562612352086035,0.03624391010529624,68.52934836499844,9.096830513000896,{'data': 'title'},"{'max_df': 0.9606411500668084, 'min_df': 0.0173422300853468, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 11, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",154
+0.03345286292654714,0.03207134999214207,67.44018563900318,9.020181416999549,{'data': 'title'},"{'max_df': 0.9679856271744719, 'min_df': 0.012480740521384346, 'ngram_range': (1, 2)}","{'doc_topic_prior': 5, 'n_components': 20, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",155
+0.033488502962187174,0.032753418198962755,68.92556002399942,9.536879233000946,{'data': 'title'},"{'max_df': 0.9541449637207264, 'min_df': 0.010694985847639567, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 16, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",156
+0.036246228877807825,0.03581958195819582,72.80187819300045,9.059931867999694,{'data': 'title'},"{'max_df': 0.965954267880493, 'min_df': 0.019558968955638797, 'ngram_range': (1, 2)}","{'doc_topic_prior': 5, 'n_components': 17, 'topic_word_prior': 10}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",157
+0.03943976365028996,0.03940908376551941,69.26699236000059,9.164904525001475,{'data': 'title'},"{'max_df': 0.9621726622846297, 'min_df': 0.010024315342912725, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.05, 'n_components': 10, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",158
+0.03499351288824973,0.03398082665409398,68.23784521699781,9.125346966000507,{'data': 'title'},"{'max_df': 0.9514756292367008, 'min_df': 0.015005193580204423, 'ngram_range': (1, 3)}","{'doc_topic_prior': 1, 'n_components': 20, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",159
+0.03716786769418348,0.035586987270155586,75.61669870200058,18.14169015399966,{'data': 'both'},"{'max_df': 0.9575085108250934, 'min_df': 0.0165088667808834, 'ngram_range': (1, 2)}","{'doc_topic_prior': 5, 'n_components': 16, 'topic_word_prior': 1}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",160
+0.037130351867193975,0.036905547697626905,70.28792998300196,8.915212838997832,{'data': 'title'},"{'max_df': 0.9765938105891088, 'min_df': 0.01327982455816822, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.5, 'n_components': 12, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",161
+0.03420380473012052,0.03375923306616376,70.21800310799881,9.605384319002042,{'data': 'title'},"{'max_df': 0.9637452397259975, 'min_df': 0.012171457019906321, 'ngram_range': (1, 3)}","{'doc_topic_prior': 1, 'n_components': 15, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",162
+0.038835133571975676,0.03851013672795851,68.25612426799853,8.837508782999066,{'data': 'title'},"{'max_df': 0.9610420665187768, 'min_df': 0.021374759998048276, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.1, 'n_components': 11, 'topic_word_prior': 0.5}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",163
+0.03538273959326591,0.03467389596102467,71.5340868179992,9.153815714998927,{'data': 'title'},"{'max_df': 0.9562472280483, 'min_df': 0.018085989115603347, 'ngram_range': (1, 3)}","{'doc_topic_prior': 10, 'n_components': 20, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",164
+0.03754990386569334,0.03655194090837655,88.9704413799991,24.216928485002427,{'data': 'body'},"{'max_df': 0.9801373599596098, 'min_df': 0.010981956099503868, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 18, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",165
+0.03518796992481203,0.03462517680339462,69.96643159000087,8.60907058900193,{'data': 'title'},"{'max_df': 0.9670337438453666, 'min_df': 0.013826952485105442, 'ngram_range': (1, 1)}","{'doc_topic_prior': 5, 'n_components': 19, 'topic_word_prior': 10}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",166
+0.038831069357385145,0.03766933836240767,73.11512037700231,17.362092642997595,{'data': 'both'},"{'max_df': 0.9824102389713574, 'min_df': 0.016050179233055423, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 14, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",167
+0.03881762618604724,0.03882916863114883,67.03049775100226,9.17973116900248,{'data': 'title'},"{'max_df': 0.9592206826919443, 'min_df': 0.041324965793137804, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.05, 'n_components': 13, 'topic_word_prior': 1}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",168
+0.034963500226658124,0.034541882759704545,68.91967407800257,9.113626995000232,{'data': 'title'},"{'max_df': 0.9706977482055612, 'min_df': 0.015501750127069273, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 16, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",169
+0.03897488002751161,0.038986327204148984,70.79258246799873,8.848088947001088,{'data': 'title'},"{'max_df': 0.9549351896201348, 'min_df': 0.031337517192732985, 'ngram_range': (1, 2)}","{'doc_topic_prior': 5, 'n_components': 20, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",170
+0.036433182748972226,0.03601603017444602,72.1293831740004,9.775200526000845,{'data': 'title'},"{'max_df': 0.9778180243026887, 'min_df': 0.019003135470397788, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.5, 'n_components': 17, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",171
+0.03914276335328967,0.03836397925506836,78.31913365500077,16.107404182002938,{'data': 'body'},"{'max_df': 0.9714908641835959, 'min_df': 0.0170810248240725, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 18, 'topic_word_prior': 0.5}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",172
+0.038799180904444064,0.03856042747131856,68.50918591200025,8.791299029999209,{'data': 'title'},"{'max_df': 0.9625830394129186, 'min_df': 0.011351782326895684, 'ngram_range': (1, 1)}","{'doc_topic_prior': 0.1, 'n_components': 10, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",173
+0.03427852375220796,0.03296872544397297,92.95858718900126,28.17814497600193,{'data': 'both'},"{'max_df': 0.9752776316056434, 'min_df': 0.010021240196824006, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 20, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",174
+0.03502633923686555,0.0348954895489549,68.24569433299985,9.136564648000785,{'data': 'title'},"{'max_df': 0.964339454654976, 'min_df': 0.014599911602236792, 'ngram_range': (1, 3)}","{'doc_topic_prior': 5, 'n_components': 12, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",175
+0.033741734794366374,0.03301272984441301,67.76622866300022,9.18824392699753,{'data': 'title'},"{'max_df': 0.9724274968186445, 'min_df': 0.012679957090192569, 'ngram_range': (1, 2)}","{'doc_topic_prior': 10, 'n_components': 16, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",176
+0.03548371969424601,0.03495206663523495,71.32400278100249,8.668598404998193,{'data': 'title'},"{'max_df': 0.9663753892993906, 'min_df': 0.013398745406105125, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 15, 'topic_word_prior': 10}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",177
+0.03812108233160865,0.03776363350620776,108.01054465199923,32.75794793500245,{'data': 'body'},"{'max_df': 0.9791543212500056, 'min_df': 0.02325685338221228, 'ngram_range': (1, 3)}","{'doc_topic_prior': 0.05, 'n_components': 18, 'topic_word_prior': 1}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",178
+0.036567927094242884,0.03621247839069621,69.49314074499853,9.40265450899824,{'data': 'title'},"{'max_df': 0.9693231501798685, 'min_df': 0.011862417939789325, 'ngram_range': (1, 1)}","{'doc_topic_prior': 1, 'n_components': 11, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",179
+0.036906194800931644,0.03451830897375452,76.28508435800177,18.615796918998967,{'data': 'both'},"{'max_df': 0.9738956399055593, 'min_df': 0.010631504300598591, 'ngram_range': (1, 2)}","{'doc_topic_prior': 5, 'n_components': 20, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",180
+0.04394729026307974,0.044078264969354075,69.779074004,8.819513669997832,{'data': 'title'},"{'max_df': 0.9758617363526326, 'min_df': 0.0481031282164804, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.5, 'n_components': 13, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",181
+0.03610835821362137,0.03543140028288543,69.03793295099968,9.152842096998938,{'data': 'title'},"{'max_df': 0.9685367576721937, 'min_df': 0.01989632652321925, 'ngram_range': (1, 3)}","{'doc_topic_prior': 10, 'n_components': 19, 'topic_word_prior': 0.5}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",182
+0.03886858518437466,0.03885745717428886,68.91948276900075,8.890336736003519,{'data': 'title'},"{'max_df': 0.9819375849719734, 'min_df': 0.028916906185493817, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.1, 'n_components': 14, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",183
+0.03720319509793194,0.03701084394153701,67.62737693599775,14.156009691003419,{'data': 'title'},"{'max_df': 0.9675291512241897, 'min_df': 0.021632390932107795, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 16, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",184
+0.0389251715567505,0.037905076221907905,77.89153778499895,19.137997814999835,{'data': 'body'},"{'max_df': 0.9523245482457422, 'min_df': 0.014134216496053228, 'ngram_range': (1, 3)}","{'doc_topic_prior': 5, 'n_components': 20, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",185
+0.03785096837728417,0.037823353763947826,69.10883848999947,8.562404451004113,{'data': 'title'},"{'max_df': 0.9831253425403437, 'min_df': 0.02506740084034357, 'ngram_range': (1, 1)}","{'doc_topic_prior': 10, 'n_components': 17, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",186
+0.03554749660012818,0.03514065692283514,67.56077045499842,8.670291350994376,{'data': 'title'},"{'max_df': 0.9848956824608653, 'min_df': 0.018139310179921278, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 18, 'topic_word_prior': 10}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",187
+0.03480343269816954,0.03431085965739431,112.55271548999735,37.73516652300168,{'data': 'both'},"{'max_df': 0.9588988535531341, 'min_df': 0.010012246057833112, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.05, 'n_components': 20, 'topic_word_prior': 1}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",188
+0.03648976912134807,0.03622662266226623,68.05390720799915,9.394999787997222,{'data': 'title'},"{'max_df': 0.970357472873093, 'min_df': 0.016549147200684924, 'ngram_range': (1, 3)}","{'doc_topic_prior': 1, 'n_components': 10, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",189
+0.04207900207900208,0.04216721672167217,68.20282205400144,8.84487980799895,{'data': 'title'},"{'max_df': 0.9501477372123187, 'min_df': 0.04644075066186847, 'ngram_range': (1, 2)}","{'doc_topic_prior': 5, 'n_components': 16, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",190
+0.03798196113985588,0.03776049033474776,70.9622534920054,8.882504823995987,{'data': 'title'},"{'max_df': 0.9870152424410898, 'min_df': 0.01554512981268788, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.5, 'n_components': 12, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",191
+0.041041689462742094,0.0396055319817696,77.89545089800231,18.26478781899641,{'data': 'body'},"{'max_df': 0.9555676368938991, 'min_df': 0.02067699646940696, 'ngram_range': (1, 3)}","{'doc_topic_prior': 10, 'n_components': 15, 'topic_word_prior': 0.5}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",192
+0.03638034795929533,0.0364010686782964,70.44842064499971,9.07893201999832,{'data': 'title'},"{'max_df': 0.9773602446961576, 'min_df': 0.012737078059005815, 'ngram_range': (1, 1)}","{'doc_topic_prior': 0.1, 'n_components': 18, 'topic_word_prior': 5}","{'classifier': LogisticRegression(C=0.1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.1}",193
+0.03781564097353571,0.03777149143485777,68.88556770799914,8.951960113998211,{'data': 'title'},"{'max_df': 0.9648892132443648, 'min_df': 0.02593470761453274, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 20, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",194
+0.03739046160098792,0.03639006757818639,76.97664571600035,19.82211313999869,{'data': 'both'},"{'max_df': 0.960400937603252, 'min_df': 0.017491350417440828, 'ngram_range': (1, 2)}","{'doc_topic_prior': 5, 'n_components': 11, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",195
+0.03788285683022525,0.03790350463617791,67.64924643800623,8.94991881000169,{'data': 'title'},"{'max_df': 0.9542748414230388, 'min_df': 0.02785421270772024, 'ngram_range': (1, 3)}","{'doc_topic_prior': 10, 'n_components': 13, 'topic_word_prior': 0.1}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",196
+0.03800071905335063,0.03794750903661795,72.17050431800453,8.707562001996848,{'data': 'title'},"{'max_df': 0.9633655280866992, 'min_df': 0.022760895960667868, 'ngram_range': (1, 2)}","{'doc_topic_prior': 1, 'n_components': 19, 'topic_word_prior': 1}","{'classifier': LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 1}",197
+0.037400153189626875,0.037101995913877105,70.9609341510004,9.671901007000997,{'data': 'title'},"{'max_df': 0.95767450177653, 'min_df': 0.011581105344788768, 'ngram_range': (1, 2)}","{'doc_topic_prior': 0.05, 'n_components': 14, 'topic_word_prior': 10}","{'classifier': LogisticRegression(C=100, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 100}",198
+0.03901552217341691,0.037958510136727956,85.38852351300011,23.99000278300082,{'data': 'body'},"{'max_df': 0.9614857732838232, 'min_df': 0.03425373486153782, 'ngram_range': (1, 3)}","{'doc_topic_prior': 1, 'n_components': 16, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 10}",199
+0.040211026526816,0.040073864529310076,68.96292366099806,8.894784178999544,{'data': 'title'},"{'max_df': 0.980790325135528, 'min_df': 0.035516537029648756, 'ngram_range': (1, 2)}","{'doc_topic_prior': 5, 'n_components': 20, 'topic_word_prior': 0.05}","{'classifier': LogisticRegression(C=0.01, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=100,
+                   multi_class='auto', n_jobs=-1, penalty='l2',
+                   random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), 'C': 0.01}",200

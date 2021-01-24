@@ -1,0 +1,34 @@
+{% extends "base_bootstrap.html" %}
+{% block title %}Détection faux billets{% endblock %}
+
+{% block content %}
+	<div class="well">
+		<h2>Détection des faux billets</h2>
+	</div>
+	<h3>Sélection du fichier contenant les mesures des billets</h3>
+	<form action="http://localhost:5000/billets" method ="POST" enctype ="multipart/form-data">
+		<div class="form-group">
+			<label for="MyInputFile">Sélection du fichier de données</label>
+			<input type="file" name="file" id="myInputFile" value="Choisir le fichier .csv">
+		</div>
+		<div class="radio">
+			<label>
+				<input type="radio" name="analyseType" id="analyseType1" value="direct" checked>
+				Détection directe depuis les mesures des billets (les variables length et margin_low suffisent)
+			</label>
+		</div>
+		<div class="radio">
+			<label>
+				<input type="radio" name="analyseType" id="analyseType2" value="acp">
+				Détection à partir des projections sur le premier plan factoriel de l'ACP
+			</label>
+		</div>
+		<div class="radio">
+		  <label>
+			<input type="radio" name="analyseType" id="analyseType3" value="cross">
+				Détection croisée, à partir des 2 méthodes ci-dessus
+		  </label>
+		</div>
+		<button type="submit" class="btn btn-info">Envoyer le fichier</button>
+	</form>
+{% endblock %}

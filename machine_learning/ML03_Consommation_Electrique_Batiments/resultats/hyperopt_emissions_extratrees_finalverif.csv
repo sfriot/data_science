@@ -1,0 +1,8 @@
+valid_score_mean,valid_score_std,valid_time_mean,train_score_mean,train_score_std,train_time_mean,data_transfo_time,estimator,iteration
+0.5554694847403956,0.04461111940019722,0.10382180213928223,0.8651971837378845,0.003588716430029028,0.5286961555480957,0.27469824900254025,"ExtraTreesRegressor(bootstrap=True, ccp_alpha=0.0, criterion='mse',
+                    max_depth=18, max_features=1.0, max_leaf_nodes=None,
+                    max_samples=None, min_impurity_decrease=0.0,
+                    min_impurity_split=None, min_samples_leaf=1,
+                    min_samples_split=6, min_weight_fraction_leaf=0.0,
+                    n_estimators=100, n_jobs=-1, oob_score=False,
+                    random_state=42, verbose=0, warm_start=False)",1
